@@ -1,0 +1,1239 @@
+Shipping ID,Ship Mode,Courier,Order Date,Delivered Date,Delivery Timing,"City, State and Postal code"
+AE-2023-1231682,Second Class,Parcel Express,2023-05-28,2023-06-17,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+AE-2023-1263608,Second Class,Parcel Express,2023-05-23,2023-06-12,#DIV/0!,George Town-Penang-10200
+AE-2023-303016,Second Class,Hero Van,2023-05-17,2023-06-06,#DIV/0!,Johor Bahru-Johor-80000
+AE-2023-304471,Standard Class,HomeLaju,2023-05-23,2023-06-12,#DIV/0!,Kota Kinabalu-Sabah-88000
+AE-2023-3123605,Standard Class,HomeLaju,2023-05-22,2023-06-21,#DIV/0!,Kuching-Sarawak-93000
+AE-2023-3179243,Standard Class,Hero Van,2023-05-23,2023-06-02,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+AE-2023-3323423,Standard Class,Parcel Express,2023-05-03,2023-05-23,#DIV/0!,George Town-Penang-10200
+AE-2023-3371820,Standard Class,HomeLaju,2023-05-24,2023-06-03,#DIV/0!,Johor Bahru-Johor-80000
+AE-2023-350473,Standard Class,Parcel Express,2023-05-17,2023-06-06,#DIV/0!,Kota Kinabalu-Sabah-88000
+AE-2023-4073208,Standard Class,HomeLaju,2023-05-11,2023-06-10,#DIV/0!,Kuching-Sarawak-93000
+AE-2023-4135578,Standard Class,Hero Van,2023-05-12,2023-05-22,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+AE-2023-4220600,Standard Class,HomeLaju,2023-05-21,2023-05-31,#DIV/0!,George Town-Penang-10200
+AE-2023-4244209,Standard Class,HomeLaju,2023-05-19,2023-05-29,#DIV/0!,Johor Bahru-Johor-80000
+AE-2023-447833,Standard Class,HomeLaju,2023-05-22,2023-06-21,#DIV/0!,Kota Kinabalu-Sabah-88000
+AE-2023-4984367,Standard Class,HomeLaju,2023-05-20,2023-05-30,Early,Kuching-Sarawak-93000
+AE-2023-5077525,Standard Class,Parcel Express,2023-05-19,2023-05-29,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AE-2023-5351828,Standard Class,Hero Van,2023-05-24,2023-06-13,On time,George Town-Penang-10200
+AE-2023-5740368,Second Class,HomeLaju,2023-05-19,2023-06-18,Late,Johor Bahru-Johor-80000
+AE-2023-5941050,Second Class,HomeLaju,2023-05-13,2023-06-12,Late,Kota Kinabalu-Sabah-88000
+AE-2023-633725,Second Class,Hero Van,2023-05-13,2023-06-12,Late,Kuching-Sarawak-93000
+AG-2023-1011961,Second Class,HomeLaju,2023-05-22,2023-06-11,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-1031598,Standard Class,Parcel Express,2023-05-07,2023-05-27,On time,George Town-Penang-10200
+AG-2023-1110396,Standard Class,HomeLaju,2023-05-18,2023-06-17,Late,Johor Bahru-Johor-80000
+AG-2023-1153827,Second Class,Parcel Express,2023-05-19,2023-06-18,Late,Kota Kinabalu-Sabah-88000
+AG-2023-1231908,Standard Class,HomeLaju,2023-05-06,2023-05-26,On time,Kuching-Sarawak-93000
+AG-2023-1275697,Second Class,Hero Van,2023-05-16,2023-06-05,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-1310837,Second Class,Parcel Express,2023-05-17,2023-06-06,On time,George Town-Penang-10200
+AG-2023-1352224,Standard Class,Hero Van,2023-05-17,2023-06-16,Late,Johor Bahru-Johor-80000
+AG-2023-1366085,Standard Class,Hero Van,2023-05-16,2023-06-15,Late,Kota Kinabalu-Sabah-88000
+AG-2023-1400544,Standard Class,Hero Van,2023-05-15,2023-06-14,Late,Kuching-Sarawak-93000
+AG-2023-1557147,Standard Class,Hero Van,2023-05-07,2023-06-06,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-1588096,Standard Class,Hero Van,2023-05-27,2023-06-06,Early,George Town-Penang-10200
+AG-2023-1635797,Standard Class,Hero Van,2023-05-21,2023-06-20,Late,Johor Bahru-Johor-80000
+AG-2023-1691731,Standard Class,HomeLaju,2023-05-10,2023-05-20,Early,Kota Kinabalu-Sabah-88000
+AG-2023-179206,Second Class,Hero Van,2023-05-19,2023-06-08,On time,Kuching-Sarawak-93000
+AG-2023-1957110,First Class,Parcel Express,2023-05-19,2023-06-08,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-1958395,First Class,HomeLaju,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+AG-2023-2056925,Standard Class,Hero Van,2023-05-23,2023-06-22,Late,Johor Bahru-Johor-80000
+AG-2023-2066119,Standard Class,Parcel Express,2023-05-11,2023-06-10,Late,Kota Kinabalu-Sabah-88000
+AG-2023-2198541,Standard Class,Hero Van,2023-05-03,2023-05-13,Early,Kuching-Sarawak-93000
+AG-2023-2231275,Standard Class,Parcel Express,2023-05-01,2023-05-21,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-2332510,Standard Class,Hero Van,2023-05-03,2023-06-02,Late,George Town-Penang-10200
+AG-2023-2333770,Standard Class,Parcel Express,2023-05-13,2023-06-12,Late,Johor Bahru-Johor-80000
+AG-2023-2383697,Standard Class,Hero Van,2023-05-04,2023-06-03,Late,Kota Kinabalu-Sabah-88000
+AG-2023-2384745,First Class,Hero Van,2023-05-02,2023-05-12,Early,Kuching-Sarawak-93000
+AG-2023-2424042,First Class,HomeLaju,2023-05-06,2023-06-05,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-2448243,Second Class,HomeLaju,2023-05-05,2023-05-25,On time,George Town-Penang-10200
+AG-2023-2455899,Standard Class,HomeLaju,2023-05-02,2023-05-22,On time,Johor Bahru-Johor-80000
+AG-2023-2534608,Standard Class,Parcel Express,2023-05-25,2023-06-24,Late,Kota Kinabalu-Sabah-88000
+AG-2023-261749,Standard Class,HomeLaju,2023-05-08,2023-06-07,Late,Kuching-Sarawak-93000
+AG-2023-2728572,Standard Class,Hero Van,2023-05-04,2023-05-24,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-2963245,Standard Class,Parcel Express,2023-05-23,2023-06-02,Early,George Town-Penang-10200
+AG-2023-3032982,Standard Class,HomeLaju,2023-05-03,2023-06-02,Late,Johor Bahru-Johor-80000
+AG-2023-3063469,Standard Class,HomeLaju,2023-05-16,2023-05-26,Early,Kota Kinabalu-Sabah-88000
+AG-2023-3078752,Standard Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuching-Sarawak-93000
+AG-2023-321771,First Class,HomeLaju,2023-05-15,2023-06-14,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-3234894,First Class,Parcel Express,2023-05-26,2023-06-15,On time,George Town-Penang-10200
+AG-2023-3236544,First Class,HomeLaju,2023-05-12,2023-06-11,Late,Johor Bahru-Johor-80000
+AG-2023-3261303,First Class,Parcel Express,2023-05-20,2023-06-09,On time,Kota Kinabalu-Sabah-88000
+AG-2023-3407916,First Class,Parcel Express,2023-05-14,2023-06-13,Late,Kuching-Sarawak-93000
+AG-2023-3416342,First Class,Parcel Express,2023-05-12,2023-05-22,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-347262,First Class,Hero Van,2023-05-28,2023-06-07,Early,George Town-Penang-10200
+AG-2023-3495968,Standard Class,HomeLaju,2023-05-22,2023-06-01,Early,Johor Bahru-Johor-80000
+AG-2023-3587241,Standard Class,HomeLaju,2023-05-04,2023-06-03,Late,Kota Kinabalu-Sabah-88000
+AG-2023-3601342,Standard Class,HomeLaju,2023-05-28,2023-06-27,Late,Kuching-Sarawak-93000
+AG-2023-3643592,Standard Class,HomeLaju,2023-05-26,2023-06-25,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-368362,Standard Class,Hero Van,2023-05-04,2023-06-03,Late,George Town-Penang-10200
+AG-2023-3689627,Standard Class,Hero Van,2023-05-24,2023-06-23,Late,Johor Bahru-Johor-80000
+AG-2023-3716740,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,Kota Kinabalu-Sabah-88000
+AG-2023-3734094,First Class,Parcel Express,2023-05-05,2023-06-04,Late,Kuching-Sarawak-93000
+AG-2023-3737022,Standard Class,HomeLaju,2023-05-22,2023-06-21,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-3775104,Second Class,Parcel Express,2023-05-10,2023-06-09,Late,George Town-Penang-10200
+AG-2023-3821798,Standard Class,HomeLaju,2023-05-07,2023-05-17,Early,Johor Bahru-Johor-80000
+AG-2023-3909562,Standard Class,Parcel Express,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+AG-2023-3960042,Standard Class,Hero Van,2023-05-11,2023-06-10,Late,Kuching-Sarawak-93000
+AG-2023-4165111,First Class,HomeLaju,2023-05-27,2023-06-26,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-4177910,First Class,Hero Van,2023-05-01,2023-05-11,Early,George Town-Penang-10200
+AG-2023-4211678,First Class,Hero Van,2023-05-22,2023-06-21,Late,Johor Bahru-Johor-80000
+AG-2023-4211735,Second Class,Hero Van,2023-05-26,2023-06-05,Early,Kota Kinabalu-Sabah-88000
+AG-2023-4280,First Class,Hero Van,2023-05-04,2023-05-24,On time,Kuching-Sarawak-93000
+AG-2023-4361729,First Class,Hero Van,2023-05-13,2023-06-12,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-4594602,Standard Class,HomeLaju,2023-05-02,2023-06-01,Late,George Town-Penang-10200
+AG-2023-4595259,Standard Class,Parcel Express,2023-05-24,2023-06-23,Late,Johor Bahru-Johor-80000
+AG-2023-4605871,Standard Class,HomeLaju,2023-05-19,2023-06-18,Late,Kota Kinabalu-Sabah-88000
+AG-2023-4607226,First Class,Hero Van,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+AG-2023-4700530,Second Class,Hero Van,2023-05-07,2023-05-17,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-4704536,Standard Class,Hero Van,2023-05-14,2023-06-13,Late,George Town-Penang-10200
+AG-2023-477736,Standard Class,Hero Van,2023-05-03,2023-05-13,Early,Johor Bahru-Johor-80000
+AG-2023-4778587,Second Class,Parcel Express,2023-05-26,2023-06-25,Late,Kota Kinabalu-Sabah-88000
+AG-2023-4840,Standard Class,HomeLaju,2023-05-06,2023-05-26,On time,Kuching-Sarawak-93000
+AG-2023-4958665,Standard Class,HomeLaju,2023-05-05,2023-06-04,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-4962618,Standard Class,Hero Van,2023-05-10,2023-05-20,Early,George Town-Penang-10200
+AG-2023-4999498,Second Class,Parcel Express,2023-05-08,2023-05-18,Early,Johor Bahru-Johor-80000
+AG-2023-5125188,Second Class,HomeLaju,2023-05-02,2023-05-22,On time,Kota Kinabalu-Sabah-88000
+AG-2023-5227168,Second Class,Parcel Express,2023-05-15,2023-06-14,Late,Kuching-Sarawak-93000
+AG-2023-5240510,Standard Class,HomeLaju,2023-05-04,2023-06-03,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-5259592,Second Class,Parcel Express,2023-05-02,2023-06-01,Late,George Town-Penang-10200
+AG-2023-5285584,First Class,Parcel Express,2023-05-13,2023-06-12,Late,Johor Bahru-Johor-80000
+AG-2023-5291920,Standard Class,HomeLaju,2023-05-11,2023-05-31,On time,Kota Kinabalu-Sabah-88000
+AG-2023-5382877,Standard Class,Hero Van,2023-05-18,2023-06-17,Late,Kuching-Sarawak-93000
+AG-2023-553166,Standard Class,Parcel Express,2023-05-04,2023-05-24,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-5618265,Standard Class,HomeLaju,2023-05-28,2023-06-17,On time,George Town-Penang-10200
+AG-2023-5619756,Second Class,HomeLaju,2023-05-13,2023-05-23,Early,Johor Bahru-Johor-80000
+AG-2023-5678242,Standard Class,Hero Van,2023-05-04,2023-05-14,Early,Kota Kinabalu-Sabah-88000
+AG-2023-5715012,Standard Class,HomeLaju,2023-05-21,2023-05-31,Early,Kuching-Sarawak-93000
+AG-2023-5796616,Standard Class,Hero Van,2023-05-06,2023-05-26,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-5798919,Standard Class,HomeLaju,2023-05-25,2023-06-24,Late,George Town-Penang-10200
+AG-2023-5829085,Standard Class,Hero Van,2023-05-01,2023-05-31,Late,Johor Bahru-Johor-80000
+AG-2023-5832529,Standard Class,Hero Van,2023-05-24,2023-06-03,Early,Kota Kinabalu-Sabah-88000
+AG-2023-5881738,Standard Class,Parcel Express,2023-05-25,2023-06-24,Late,Kuching-Sarawak-93000
+AG-2023-5892508,Standard Class,HomeLaju,2023-05-04,2023-06-03,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-5941148,Standard Class,Hero Van,2023-05-16,2023-05-26,Early,George Town-Penang-10200
+AG-2023-6310,Standard Class,Parcel Express,2023-05-10,2023-06-09,Late,Johor Bahru-Johor-80000
+AG-2023-64548,Second Class,HomeLaju,2023-05-07,2023-05-17,Early,Kota Kinabalu-Sabah-88000
+AG-2023-736723,Second Class,Hero Van,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+AG-2023-737230,Second Class,HomeLaju,2023-05-12,2023-05-22,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AG-2023-744848,Second Class,Parcel Express,2023-05-15,2023-05-25,Early,George Town-Penang-10200
+AG-2023-751740,Standard Class,HomeLaju,2023-05-11,2023-05-31,On time,Johor Bahru-Johor-80000
+AG-2023-808910,Standard Class,Parcel Express,2023-05-20,2023-06-19,Late,Kota Kinabalu-Sabah-88000
+AG-2023-8240,First Class,Hero Van,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+AG-2023-845356,First Class,HomeLaju,2023-05-12,2023-05-22,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AJ-2023-1682214,First Class,Hero Van,2023-05-12,2023-06-01,On time,George Town-Penang-10200
+AJ-2023-2545132,First Class,HomeLaju,2023-05-19,2023-05-29,Early,Johor Bahru-Johor-80000
+AJ-2023-2722694,First Class,Parcel Express,2023-05-04,2023-05-14,Early,Kota Kinabalu-Sabah-88000
+AJ-2023-2914878,Second Class,Parcel Express,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+AJ-2023-3339177,Standard Class,Parcel Express,2023-05-20,2023-06-19,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AJ-2023-3339668,Standard Class,HomeLaju,2023-05-24,2023-06-23,Late,George Town-Penang-10200
+AJ-2023-454413,Standard Class,Parcel Express,2023-05-14,2023-06-13,Late,Johor Bahru-Johor-80000
+AJ-2023-4661958,Second Class,Parcel Express,2023-05-01,2023-05-21,On time,Kota Kinabalu-Sabah-88000
+AJ-2023-4791997,Second Class,Parcel Express,2023-05-08,2023-05-28,On time,Kuching-Sarawak-93000
+AJ-2023-5628145,First Class,Hero Van,2023-05-02,2023-05-12,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AJ-2023-5689286,First Class,Hero Van,2023-05-17,2023-05-27,Early,George Town-Penang-10200
+AJ-2023-5740,First Class,HomeLaju,2023-05-04,2023-05-14,Early,Johor Bahru-Johor-80000
+AJ-2023-761549,Standard Class,Parcel Express,2023-05-12,2023-06-11,Late,Kota Kinabalu-Sabah-88000
+AJ-2023-868136,Standard Class,Parcel Express,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+AL-2023-1451423,Standard Class,Parcel Express,2023-05-22,2023-06-11,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AL-2023-1880384,Standard Class,Hero Van,2023-05-17,2023-06-06,On time,George Town-Penang-10200
+AO-2023-1219266,Standard Class,Hero Van,2023-05-25,2023-06-14,On time,Johor Bahru-Johor-80000
+AO-2023-1248287,Standard Class,HomeLaju,2023-05-03,2023-06-02,Late,Kota Kinabalu-Sabah-88000
+AO-2023-138662,Standard Class,HomeLaju,2023-05-07,2023-06-06,Late,Kuching-Sarawak-93000
+AO-2023-1559605,Second Class,HomeLaju,2023-05-22,2023-06-21,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-1588948,Standard Class,Hero Van,2023-05-03,2023-06-02,#DIV/0!,George Town-Penang-10200
+AO-2023-16205,Standard Class,Parcel Express,2023-05-12,2023-05-22,#DIV/0!,Johor Bahru-Johor-80000
+AO-2023-1693964,Standard Class,HomeLaju,2023-05-16,2023-05-26,#DIV/0!,Kota Kinabalu-Sabah-88000
+AO-2023-1734243,Standard Class,HomeLaju,2023-05-09,2023-05-19,#DIV/0!,Kuching-Sarawak-93000
+AO-2023-1961315,Standard Class,Parcel Express,2023-05-10,2023-05-30,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-2117997,Standard Class,HomeLaju,2023-05-08,2023-05-28,#DIV/0!,George Town-Penang-10200
+AO-2023-2198279,Standard Class,Parcel Express,2023-05-11,2023-05-31,#DIV/0!,Johor Bahru-Johor-80000
+AO-2023-2240837,Standard Class,HomeLaju,2023-05-25,2023-06-24,#DIV/0!,Kota Kinabalu-Sabah-88000
+AO-2023-2250964,Standard Class,Hero Van,2023-05-23,2023-06-02,#DIV/0!,Kuching-Sarawak-93000
+AO-2023-2301292,Standard Class,Hero Van,2023-05-04,2023-05-24,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-2396323,First Class,Parcel Express,2023-05-02,2023-05-22,#DIV/0!,George Town-Penang-10200
+AO-2023-2407222,First Class,Parcel Express,2023-05-06,2023-05-26,#DIV/0!,Johor Bahru-Johor-80000
+AO-2023-2431769,First Class,HomeLaju,2023-05-05,2023-06-04,#DIV/0!,Kota Kinabalu-Sabah-88000
+AO-2023-247162,First Class,Hero Van,2023-05-16,2023-06-05,On time,Kuching-Sarawak-93000
+AO-2023-247334,First Class,Parcel Express,2023-05-23,2023-06-12,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-2544428,Standard Class,Hero Van,2023-05-06,2023-05-26,On time,George Town-Penang-10200
+AO-2023-2629517,Second Class,HomeLaju,2023-05-16,2023-06-05,On time,Johor Bahru-Johor-80000
+AO-2023-2652478,Standard Class,Parcel Express,2023-05-15,2023-06-14,Late,Kota Kinabalu-Sabah-88000
+AO-2023-265962,Standard Class,Parcel Express,2023-05-19,2023-05-29,Early,Kuching-Sarawak-93000
+AO-2023-2730,First Class,HomeLaju,2023-05-18,2023-06-17,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-279743,Second Class,Hero Van,2023-05-28,2023-06-27,Late,George Town-Penang-10200
+AO-2023-2922182,Standard Class,HomeLaju,2023-05-27,2023-06-06,Early,Johor Bahru-Johor-80000
+AO-2023-2971012,Standard Class,HomeLaju,2023-05-08,2023-05-18,Early,Kota Kinabalu-Sabah-88000
+AO-2023-3111164,Standard Class,Parcel Express,2023-05-01,2023-05-11,Early,Kuching-Sarawak-93000
+AO-2023-3196419,Standard Class,Parcel Express,2023-05-11,2023-05-31,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-330924,Standard Class,Parcel Express,2023-05-25,2023-06-04,Early,George Town-Penang-10200
+AO-2023-3449047,Standard Class,HomeLaju,2023-05-05,2023-06-04,Late,Johor Bahru-Johor-80000
+AO-2023-3570194,Standard Class,Hero Van,2023-05-12,2023-05-22,Early,Kota Kinabalu-Sabah-88000
+AO-2023-3579945,Standard Class,Parcel Express,2023-05-18,2023-05-28,Early,Kuching-Sarawak-93000
+AO-2023-3819234,Standard Class,HomeLaju,2023-05-18,2023-06-07,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-3849789,Standard Class,Hero Van,2023-05-23,2023-06-02,Early,George Town-Penang-10200
+AO-2023-3958138,Standard Class,HomeLaju,2023-05-27,2023-06-26,Late,Johor Bahru-Johor-80000
+AO-2023-4083475,Standard Class,Parcel Express,2023-05-03,2023-05-23,On time,Kota Kinabalu-Sabah-88000
+AO-2023-4147387,Standard Class,Hero Van,2023-05-01,2023-05-21,On time,Kuching-Sarawak-93000
+AO-2023-4462137,Standard Class,HomeLaju,2023-05-24,2023-06-03,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-4473901,Second Class,HomeLaju,2023-05-24,2023-06-13,On time,George Town-Penang-10200
+AO-2023-4554868,Second Class,Hero Van,2023-05-24,2023-06-13,On time,Johor Bahru-Johor-80000
+AO-2023-4572456,Second Class,Hero Van,2023-05-09,2023-05-19,Early,Kota Kinabalu-Sabah-88000
+AO-2023-4830775,Standard Class,HomeLaju,2023-05-20,2023-05-30,Early,Kuching-Sarawak-93000
+AO-2023-4863267,Second Class,Hero Van,2023-05-12,2023-06-11,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-4871874,Second Class,HomeLaju,2023-05-25,2023-06-14,On time,George Town-Penang-10200
+AO-2023-494813,Second Class,Parcel Express,2023-05-22,2023-06-01,Early,Johor Bahru-Johor-80000
+AO-2023-5475072,Second Class,Hero Van,2023-05-11,2023-06-10,Late,Kota Kinabalu-Sabah-88000
+AO-2023-5576371,Second Class,HomeLaju,2023-05-28,2023-06-27,Late,Kuching-Sarawak-93000
+AO-2023-5593152,Standard Class,HomeLaju,2023-05-06,2023-06-05,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AO-2023-5623908,Standard Class,Parcel Express,2023-05-25,2023-06-24,Late,George Town-Penang-10200
+AO-2023-651543,Standard Class,Hero Van,2023-05-13,2023-05-23,Early,Johor Bahru-Johor-80000
+AO-2023-8250,Standard Class,Hero Van,2023-05-16,2023-05-26,Early,Kota Kinabalu-Sabah-88000
+AO-2023-95644,First Class,HomeLaju,2023-05-13,2023-06-02,On time,Kuching-Sarawak-93000
+AU-2023-1029672,First Class,HomeLaju,2023-05-25,2023-06-04,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-1131036,First Class,HomeLaju,2023-05-17,2023-06-16,Late,George Town-Penang-10200
+AU-2023-1148689,First Class,Parcel Express,2023-05-10,2023-05-30,On time,Johor Bahru-Johor-80000
+AU-2023-1194961,First Class,Hero Van,2023-05-11,2023-05-21,Early,Kota Kinabalu-Sabah-88000
+AU-2023-1280550,Standard Class,Parcel Express,2023-05-20,2023-06-09,On time,Kuching-Sarawak-93000
+AU-2023-1306303,Standard Class,Parcel Express,2023-05-12,2023-05-22,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-1407800,Standard Class,HomeLaju,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+AU-2023-1655627,Standard Class,Hero Van,2023-05-03,2023-05-13,Early,Johor Bahru-Johor-80000
+AU-2023-1655785,Standard Class,Hero Van,2023-05-01,2023-05-31,Late,Kota Kinabalu-Sabah-88000
+AU-2023-1799597,Standard Class,HomeLaju,2023-05-07,2023-05-27,On time,Kuching-Sarawak-93000
+AU-2023-1855850,Standard Class,HomeLaju,2023-05-25,2023-06-14,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-1894162,First Class,Parcel Express,2023-05-16,2023-06-15,Late,George Town-Penang-10200
+AU-2023-2023414,First Class,Hero Van,2023-05-27,2023-06-16,On time,Johor Bahru-Johor-80000
+AU-2023-2351100,Second Class,HomeLaju,2023-05-12,2023-06-01,On time,Kota Kinabalu-Sabah-88000
+AU-2023-2360561,Standard Class,HomeLaju,2023-05-18,2023-06-17,Late,Kuching-Sarawak-93000
+AU-2023-2712319,Standard Class,Parcel Express,2023-05-06,2023-05-26,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-2790552,Standard Class,HomeLaju,2023-05-10,2023-05-30,On time,George Town-Penang-10200
+AU-2023-2903013,Standard Class,Parcel Express,2023-05-09,2023-05-19,Early,Johor Bahru-Johor-80000
+AU-2023-2982817,Standard Class,Hero Van,2023-05-05,2023-05-25,On time,Kota Kinabalu-Sabah-88000
+AU-2023-3186096,Standard Class,Parcel Express,2023-05-05,2023-05-25,On time,Kuching-Sarawak-93000
+AU-2023-3193496,Standard Class,HomeLaju,2023-05-02,2023-05-22,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-3222327,Second Class,HomeLaju,2023-05-12,2023-06-01,On time,George Town-Penang-10200
+AU-2023-3315814,Standard Class,Hero Van,2023-05-26,2023-06-25,Late,Johor Bahru-Johor-80000
+AU-2023-3345047,Standard Class,Parcel Express,2023-05-19,2023-05-29,Early,Kota Kinabalu-Sabah-88000
+AU-2023-3354016,Standard Class,Parcel Express,2023-05-26,2023-06-25,Late,Kuching-Sarawak-93000
+AU-2023-3628943,Standard Class,Parcel Express,2023-05-07,2023-05-27,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-3808334,Standard Class,HomeLaju,2023-05-05,2023-06-04,Late,George Town-Penang-10200
+AU-2023-394763,Standard Class,HomeLaju,2023-05-17,2023-06-16,Late,Johor Bahru-Johor-80000
+AU-2023-4120335,Standard Class,Hero Van,2023-05-25,2023-06-14,On time,Kota Kinabalu-Sabah-88000
+AU-2023-4390887,First Class,Hero Van,2023-05-18,2023-05-28,Early,Kuching-Sarawak-93000
+AU-2023-4394362,First Class,HomeLaju,2023-05-02,2023-05-22,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-4604368,First Class,Parcel Express,2023-05-16,2023-05-26,Early,George Town-Penang-10200
+AU-2023-48694,First Class,Parcel Express,2023-05-21,2023-06-20,Late,Johor Bahru-Johor-80000
+AU-2023-5137764,First Class,HomeLaju,2023-05-05,2023-05-25,On time,Kota Kinabalu-Sabah-88000
+AU-2023-5281104,First Class,Hero Van,2023-05-10,2023-05-30,On time,Kuching-Sarawak-93000
+AU-2023-5298667,Standard Class,Hero Van,2023-05-20,2023-06-19,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-5419250,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,George Town-Penang-10200
+AU-2023-5434377,Standard Class,Hero Van,2023-05-20,2023-06-09,On time,Johor Bahru-Johor-80000
+AU-2023-5486839,Standard Class,HomeLaju,2023-05-05,2023-05-25,On time,Kota Kinabalu-Sabah-88000
+AU-2023-5493346,Standard Class,Hero Van,2023-05-28,2023-06-27,Late,Kuching-Sarawak-93000
+AU-2023-5531389,Standard Class,HomeLaju,2023-05-04,2023-06-03,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-5569864,Standard Class,HomeLaju,2023-05-07,2023-05-27,On time,George Town-Penang-10200
+AU-2023-5712645,Standard Class,Parcel Express,2023-05-10,2023-06-09,Late,Johor Bahru-Johor-80000
+AU-2023-5718633,Standard Class,HomeLaju,2023-05-24,2023-06-23,Late,Kota Kinabalu-Sabah-88000
+AU-2023-5830843,Standard Class,HomeLaju,2023-05-06,2023-05-16,Early,Kuching-Sarawak-93000
+AU-2023-5963820,Standard Class,Hero Van,2023-05-28,2023-06-17,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+AU-2023-643177,Standard Class,HomeLaju,2023-05-11,2023-06-10,Late,George Town-Penang-10200
+AU-2023-760452,Second Class,HomeLaju,2023-05-12,2023-06-01,On time,Johor Bahru-Johor-80000
+AU-2023-763302,Second Class,Parcel Express,2023-05-04,2023-05-14,Early,Kota Kinabalu-Sabah-88000
+AU-2023-859763,Second Class,Hero Van,2023-05-21,2023-06-20,Late,Kuching-Sarawak-93000
+BK-2023-2509707,Second Class,Parcel Express,2023-05-08,2023-05-18,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BK-2023-2770,Second Class,Hero Van,2023-05-24,2023-06-03,Early,George Town-Penang-10200
+BK-2023-3520935,Second Class,Parcel Express,2023-05-12,2023-06-01,On time,Johor Bahru-Johor-80000
+BK-2023-4385709,Second Class,Hero Van,2023-05-04,2023-05-14,Early,Kota Kinabalu-Sabah-88000
+BK-2023-5161253,Second Class,Parcel Express,2023-05-10,2023-05-30,On time,Kuching-Sarawak-93000
+BK-2023-5265340,Second Class,Parcel Express,2023-05-10,2023-06-09,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+BK-2023-5475017,Second Class,HomeLaju,2023-05-07,2023-05-27,On time,George Town-Penang-10200
+BK-2023-5816680,Second Class,Hero Van,2023-05-07,2023-05-27,On time,Johor Bahru-Johor-80000
+BK-2023-748862,Second Class,Hero Van,2023-05-17,2023-06-06,On time,Kota Kinabalu-Sabah-88000
+BN-2023-1313270,Second Class,Hero Van,2023-05-10,2023-05-20,Early,Kuching-Sarawak-93000
+BN-2023-1814595,Standard Class,Parcel Express,2023-05-19,2023-05-29,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BN-2023-1960906,Standard Class,HomeLaju,2023-05-15,2023-06-04,On time,George Town-Penang-10200
+BN-2023-2049873,First Class,Parcel Express,2023-05-19,2023-06-18,Late,Johor Bahru-Johor-80000
+BN-2023-2277499,First Class,Hero Van,2023-05-28,2023-06-17,On time,Kota Kinabalu-Sabah-88000
+BN-2023-335591,Standard Class,Parcel Express,2023-05-01,2023-05-31,Late,Kuching-Sarawak-93000
+BN-2023-3464509,Standard Class,HomeLaju,2023-05-02,2023-05-22,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BN-2023-3567608,Standard Class,Hero Van,2023-05-21,2023-05-31,Early,George Town-Penang-10200
+BN-2023-3583902,Standard Class,Parcel Express,2023-05-12,2023-06-11,Late,Johor Bahru-Johor-80000
+BN-2023-3628043,Second Class,Hero Van,2023-05-21,2023-05-31,Early,Kota Kinabalu-Sabah-88000
+BN-2023-4054005,Second Class,Hero Van,2023-05-16,2023-05-26,Early,Kuching-Sarawak-93000
+BN-2023-4718296,Second Class,HomeLaju,2023-05-03,2023-05-23,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BN-2023-4860,Standard Class,Parcel Express,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+BN-2023-5063629,Second Class,Parcel Express,2023-05-17,2023-06-06,On time,Johor Bahru-Johor-80000
+BN-2023-5193109,Second Class,Parcel Express,2023-05-05,2023-06-04,Late,Kota Kinabalu-Sabah-88000
+BN-2023-5551356,Standard Class,Parcel Express,2023-05-20,2023-06-19,Late,Kuching-Sarawak-93000
+BN-2023-5575087,Standard Class,Hero Van,2023-05-27,2023-06-06,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BN-2023-5873034,Standard Class,Hero Van,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+BN-2023-9200,Standard Class,Hero Van,2023-05-17,2023-05-27,Early,Johor Bahru-Johor-80000
+BO-2023-1048239,Standard Class,Hero Van,2023-05-01,2023-05-21,On time,Kota Kinabalu-Sabah-88000
+BO-2023-1148025,Standard Class,Parcel Express,2023-05-24,2023-06-13,On time,Kuching-Sarawak-93000
+BO-2023-1332008,Second Class,Hero Van,2023-05-16,2023-06-05,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-1426768,First Class,Hero Van,2023-05-02,2023-05-22,On time,George Town-Penang-10200
+BO-2023-1589068,First Class,HomeLaju,2023-05-05,2023-05-25,On time,Johor Bahru-Johor-80000
+BO-2023-170,First Class,Hero Van,2023-05-04,2023-05-14,Early,Kota Kinabalu-Sabah-88000
+BO-2023-1830824,First Class,Hero Van,2023-05-06,2023-05-26,On time,Kuching-Sarawak-93000
+BO-2023-185796,First Class,HomeLaju,2023-05-26,2023-06-15,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-1892122,Standard Class,Hero Van,2023-05-08,2023-06-07,#DIV/0!,George Town-Penang-10200
+BO-2023-1955891,Standard Class,Parcel Express,2023-05-19,2023-05-29,#DIV/0!,Johor Bahru-Johor-80000
+BO-2023-2318226,Standard Class,HomeLaju,2023-05-11,2023-05-21,#DIV/0!,Kota Kinabalu-Sabah-88000
+BO-2023-2349990,Standard Class,Parcel Express,2023-05-09,2023-05-29,#DIV/0!,Kuching-Sarawak-93000
+BO-2023-2351336,Second Class,Parcel Express,2023-05-27,2023-06-26,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-2398655,Second Class,HomeLaju,2023-05-17,2023-06-06,#DIV/0!,George Town-Penang-10200
+BO-2023-265739,Standard Class,Hero Van,2023-05-23,2023-06-22,#DIV/0!,Johor Bahru-Johor-80000
+BO-2023-2670,Standard Class,Hero Van,2023-05-22,2023-06-01,#DIV/0!,Kota Kinabalu-Sabah-88000
+BO-2023-2761829,Standard Class,Hero Van,2023-05-26,2023-06-25,#DIV/0!,Kuching-Sarawak-93000
+BO-2023-2932381,Standard Class,Hero Van,2023-05-12,2023-06-01,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-3061799,Second Class,HomeLaju,2023-05-18,2023-06-07,#DIV/0!,George Town-Penang-10200
+BO-2023-3064036,Second Class,Parcel Express,2023-05-28,2023-06-17,#DIV/0!,Johor Bahru-Johor-80000
+BO-2023-325479,Second Class,Hero Van,2023-05-06,2023-06-05,#DIV/0!,Kota Kinabalu-Sabah-88000
+BO-2023-3381720,Second Class,Parcel Express,2023-05-20,2023-06-19,#DIV/0!,Kuching-Sarawak-93000
+BO-2023-344515,Second Class,HomeLaju,2023-05-06,2023-05-26,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-3541022,Second Class,Hero Van,2023-05-26,2023-06-15,#DIV/0!,George Town-Penang-10200
+BO-2023-3552012,Second Class,HomeLaju,2023-05-16,2023-06-05,#DIV/0!,Johor Bahru-Johor-80000
+BO-2023-364086,First Class,HomeLaju,2023-05-23,2023-06-02,Early,Kota Kinabalu-Sabah-88000
+BO-2023-3688017,First Class,Parcel Express,2023-05-07,2023-05-27,On time,Kuching-Sarawak-93000
+BO-2023-3767839,First Class,Hero Van,2023-05-13,2023-06-02,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-3789990,First Class,HomeLaju,2023-05-16,2023-05-26,Early,George Town-Penang-10200
+BO-2023-3844715,First Class,Parcel Express,2023-05-21,2023-06-20,Late,Johor Bahru-Johor-80000
+BO-2023-3979097,Standard Class,HomeLaju,2023-05-24,2023-06-13,On time,Kota Kinabalu-Sabah-88000
+BO-2023-4218518,Standard Class,Parcel Express,2023-05-01,2023-05-11,Early,Kuching-Sarawak-93000
+BO-2023-4446438,Standard Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-4500982,Standard Class,Hero Van,2023-05-27,2023-06-26,Late,George Town-Penang-10200
+BO-2023-4651945,Standard Class,Hero Van,2023-05-27,2023-06-16,On time,Johor Bahru-Johor-80000
+BO-2023-4683526,Standard Class,Hero Van,2023-05-11,2023-06-10,Late,Kota Kinabalu-Sabah-88000
+BO-2023-4734469,Second Class,HomeLaju,2023-05-16,2023-06-15,Late,Kuching-Sarawak-93000
+BO-2023-4975781,Standard Class,Parcel Express,2023-05-05,2023-05-15,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-5095517,Standard Class,HomeLaju,2023-05-02,2023-05-12,Early,George Town-Penang-10200
+BO-2023-5117977,Standard Class,HomeLaju,2023-05-15,2023-06-04,On time,Johor Bahru-Johor-80000
+BO-2023-5124365,First Class,Parcel Express,2023-05-06,2023-06-05,Late,Kota Kinabalu-Sabah-88000
+BO-2023-5157791,Second Class,Hero Van,2023-05-21,2023-05-31,Early,Kuching-Sarawak-93000
+BO-2023-527935,Second Class,HomeLaju,2023-05-14,2023-06-13,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-5437531,Second Class,Hero Van,2023-05-08,2023-06-07,Late,George Town-Penang-10200
+BO-2023-5637608,Second Class,Hero Van,2023-05-03,2023-05-23,On time,Johor Bahru-Johor-80000
+BO-2023-5776514,Standard Class,Parcel Express,2023-05-25,2023-06-04,Early,Kota Kinabalu-Sabah-88000
+BO-2023-5789969,Standard Class,HomeLaju,2023-05-04,2023-05-14,Early,Kuching-Sarawak-93000
+BO-2023-5852193,Standard Class,HomeLaju,2023-05-19,2023-05-29,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-5883756,First Class,Hero Van,2023-05-07,2023-06-06,Late,George Town-Penang-10200
+BO-2023-5920649,Standard Class,HomeLaju,2023-05-15,2023-05-25,Early,Johor Bahru-Johor-80000
+BO-2023-62372,Standard Class,Parcel Express,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+BO-2023-742197,Standard Class,HomeLaju,2023-05-14,2023-06-03,On time,Kuching-Sarawak-93000
+BO-2023-774211,Standard Class,Parcel Express,2023-05-17,2023-06-06,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BO-2023-852975,Standard Class,HomeLaju,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+BU-2023-1076500,Standard Class,Hero Van,2023-05-01,2023-05-21,On time,Johor Bahru-Johor-80000
+BU-2023-1164476,Standard Class,Parcel Express,2023-05-02,2023-05-22,On time,Kota Kinabalu-Sabah-88000
+BU-2023-1216662,Standard Class,Hero Van,2023-05-07,2023-06-06,Late,Kuching-Sarawak-93000
+BU-2023-1529128,Second Class,Parcel Express,2023-05-01,2023-05-21,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BU-2023-1540027,First Class,Hero Van,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+BU-2023-1541433,First Class,Hero Van,2023-05-25,2023-06-04,Early,Johor Bahru-Johor-80000
+BU-2023-2045774,First Class,Parcel Express,2023-05-24,2023-06-23,Late,Kota Kinabalu-Sabah-88000
+BU-2023-2237911,First Class,Hero Van,2023-05-22,2023-06-11,On time,Kuching-Sarawak-93000
+BU-2023-257031,First Class,HomeLaju,2023-05-13,2023-06-02,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BU-2023-3281118,Second Class,HomeLaju,2023-05-17,2023-05-27,Early,George Town-Penang-10200
+BU-2023-3732131,Second Class,Hero Van,2023-05-10,2023-05-30,On time,Johor Bahru-Johor-80000
+BU-2023-3881043,Second Class,Parcel Express,2023-05-13,2023-05-23,Early,Kota Kinabalu-Sabah-88000
+BU-2023-3934899,Second Class,Hero Van,2023-05-09,2023-06-08,Late,Kuching-Sarawak-93000
+BU-2023-4658077,Second Class,Hero Van,2023-05-26,2023-06-15,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+BU-2023-4716716,Second Class,Parcel Express,2023-05-19,2023-06-18,Late,George Town-Penang-10200
+BU-2023-512067,Standard Class,Hero Van,2023-05-14,2023-05-24,Early,Johor Bahru-Johor-80000
+BU-2023-5214376,Standard Class,Hero Van,2023-05-20,2023-05-30,Early,Kota Kinabalu-Sabah-88000
+BU-2023-5942352,Second Class,Hero Van,2023-05-17,2023-06-06,On time,Kuching-Sarawak-93000
+BU-2023-60048,Second Class,Parcel Express,2023-05-09,2023-05-19,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+BU-2023-8530,Second Class,Hero Van,2023-05-15,2023-05-25,Early,George Town-Penang-10200
+BU-2023-9020,Second Class,Hero Van,2023-05-24,2023-06-13,On time,Johor Bahru-Johor-80000
+BU-2023-9200,Second Class,HomeLaju,2023-05-26,2023-06-25,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1000984,Standard Class,Hero Van,2023-05-08,2023-05-28,On time,Kuching-Sarawak-93000
+CA-2023-100111,Standard Class,Parcel Express,2023-05-19,2023-06-18,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-100384,Standard Class,Parcel Express,2023-05-23,2023-06-22,Late,George Town-Penang-10200
+CA-2023-1004610,Standard Class,Hero Van,2023-05-28,2023-06-17,On time,Johor Bahru-Johor-80000
+CA-2023-1004993,Standard Class,Parcel Express,2023-05-23,2023-06-02,Early,Kota Kinabalu-Sabah-88000
+CA-2023-100524,First Class,Hero Van,2023-05-15,2023-05-25,Early,Kuching-Sarawak-93000
+CA-2023-1007927,First Class,HomeLaju,2023-05-24,2023-06-23,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1008685,First Class,Parcel Express,2023-05-19,2023-05-29,Early,George Town-Penang-10200
+CA-2023-100902,First Class,Parcel Express,2023-05-16,2023-06-15,Late,Johor Bahru-Johor-80000
+CA-2023-1010553,First Class,Hero Van,2023-05-20,2023-06-09,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1010817,Standard Class,Hero Van,2023-05-09,2023-05-29,On time,Kuching-Sarawak-93000
+CA-2023-1010929,Standard Class,HomeLaju,2023-05-13,2023-06-02,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1011316,Standard Class,Hero Van,2023-05-12,2023-06-11,Late,George Town-Penang-10200
+CA-2023-1012326,Standard Class,Hero Van,2023-05-11,2023-06-10,Late,Johor Bahru-Johor-80000
+CA-2023-1012858,Standard Class,Parcel Express,2023-05-21,2023-06-10,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1014386,First Class,HomeLaju,2023-05-13,2023-05-23,Early,Kuching-Sarawak-93000
+CA-2023-1015530,First Class,Parcel Express,2023-05-15,2023-06-04,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1015570,Standard Class,HomeLaju,2023-05-19,2023-05-29,Early,George Town-Penang-10200
+CA-2023-1016214,Standard Class,Hero Van,2023-05-09,2023-05-29,On time,Johor Bahru-Johor-80000
+CA-2023-1016393,Standard Class,HomeLaju,2023-05-18,2023-06-17,Late,Kota Kinabalu-Sabah-88000
+CA-2023-101798,Standard Class,Parcel Express,2023-05-01,2023-05-21,On time,Kuching-Sarawak-93000
+CA-2023-1022497,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1022915,Same Day,HomeLaju,2023-05-25,2023-06-14,On time,George Town-Penang-10200
+CA-2023-102610,Same Day,HomeLaju,2023-05-28,2023-06-17,On time,Johor Bahru-Johor-80000
+CA-2023-1026117,Same Day,HomeLaju,2023-05-13,2023-05-23,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1026366,Same Day,Hero Van,2023-05-07,2023-05-17,Early,Kuching-Sarawak-93000
+CA-2023-102659,Standard Class,Parcel Express,2023-05-26,2023-06-15,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-102736,Standard Class,Parcel Express,2023-05-16,2023-05-26,Early,George Town-Penang-10200
+CA-2023-1028358,Standard Class,Parcel Express,2023-05-11,2023-06-10,Late,Johor Bahru-Johor-80000
+CA-2023-1029238,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Kota Kinabalu-Sabah-88000
+CA-2023-102974,Standard Class,Hero Van,2023-05-16,2023-06-15,Late,Kuching-Sarawak-93000
+CA-2023-1031148,Standard Class,Hero Van,2023-05-26,2023-06-15,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1032002,First Class,Hero Van,2023-05-24,2023-06-03,Early,George Town-Penang-10200
+CA-2023-1033102,Standard Class,HomeLaju,2023-05-25,2023-06-14,On time,Johor Bahru-Johor-80000
+CA-2023-103380,Standard Class,Parcel Express,2023-05-21,2023-06-20,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1035217,Standard Class,Parcel Express,2023-05-28,2023-06-17,On time,Kuching-Sarawak-93000
+CA-2023-1035628,Standard Class,Hero Van,2023-05-11,2023-05-21,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-10362,First Class,Hero Van,2023-05-06,2023-06-05,Late,George Town-Penang-10200
+CA-2023-1039002,First Class,Hero Van,2023-05-13,2023-05-23,Early,Johor Bahru-Johor-80000
+CA-2023-104147,Second Class,HomeLaju,2023-05-12,2023-06-01,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1042771,Standard Class,Hero Van,2023-05-01,2023-05-31,Late,Kuching-Sarawak-93000
+CA-2023-1043853,Standard Class,Parcel Express,2023-05-15,2023-06-04,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-104731,Standard Class,Hero Van,2023-05-25,2023-06-14,On time,George Town-Penang-10200
+CA-2023-104864,Standard Class,Hero Van,2023-05-23,2023-06-02,Early,Johor Bahru-Johor-80000
+CA-2023-104885,First Class,Hero Van,2023-05-02,2023-05-12,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1049505,Standard Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-1052349,Standard Class,Hero Van,2023-05-02,2023-05-12,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1054265,Second Class,Hero Van,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+CA-2023-1055433,Second Class,Hero Van,2023-05-19,2023-05-29,Early,Johor Bahru-Johor-80000
+CA-2023-1056445,Second Class,HomeLaju,2023-05-26,2023-06-25,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1057347,Standard Class,Parcel Express,2023-05-05,2023-05-15,Early,Kuching-Sarawak-93000
+CA-2023-1057633,Second Class,Parcel Express,2023-05-16,2023-06-05,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1059615,Second Class,Parcel Express,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+CA-2023-1060456,Standard Class,Parcel Express,2023-05-12,2023-06-01,On time,Johor Bahru-Johor-80000
+CA-2023-106304,Second Class,Parcel Express,2023-05-09,2023-05-19,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1063574,Second Class,HomeLaju,2023-05-28,2023-06-17,On time,Kuching-Sarawak-93000
+CA-2023-1063658,Second Class,Hero Van,2023-05-03,2023-06-02,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-106859,Second Class,Hero Van,2023-05-21,2023-05-31,Early,George Town-Penang-10200
+CA-2023-1069647,First Class,HomeLaju,2023-05-05,2023-06-04,Late,Johor Bahru-Johor-80000
+CA-2023-1070441,Standard Class,Hero Van,2023-05-17,2023-06-06,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1070461,Standard Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuching-Sarawak-93000
+CA-2023-107244,Standard Class,HomeLaju,2023-05-13,2023-06-12,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1072465,Standard Class,Parcel Express,2023-05-21,2023-06-10,On time,George Town-Penang-10200
+CA-2023-107265,Standard Class,Parcel Express,2023-05-21,2023-06-20,Late,Johor Bahru-Johor-80000
+CA-2023-107321,Standard Class,Parcel Express,2023-05-19,2023-06-08,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1074612,Standard Class,Hero Van,2023-05-19,2023-05-29,Early,Kuching-Sarawak-93000
+CA-2023-107832,Standard Class,Parcel Express,2023-05-28,2023-06-07,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1078798,Standard Class,Hero Van,2023-05-13,2023-05-23,Early,George Town-Penang-10200
+CA-2023-1080633,Standard Class,HomeLaju,2023-05-23,2023-06-22,Late,Johor Bahru-Johor-80000
+CA-2023-1082995,Standard Class,Hero Van,2023-05-12,2023-06-01,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1083362,Standard Class,HomeLaju,2023-05-25,2023-06-04,Early,Kuching-Sarawak-93000
+CA-2023-1083973,Standard Class,Parcel Express,2023-05-25,2023-06-14,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1084426,Standard Class,HomeLaju,2023-05-10,2023-06-09,Late,George Town-Penang-10200
+CA-2023-1084829,Standard Class,HomeLaju,2023-05-14,2023-05-24,Early,Johor Bahru-Johor-80000
+CA-2023-1085377,Standard Class,Parcel Express,2023-05-11,2023-05-31,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1085421,Standard Class,HomeLaju,2023-05-28,2023-06-17,On time,Kuching-Sarawak-93000
+CA-2023-1085499,Standard Class,Hero Van,2023-05-25,2023-06-04,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1085509,First Class,Parcel Express,2023-05-05,2023-05-25,On time,George Town-Penang-10200
+CA-2023-108749,Standard Class,HomeLaju,2023-05-18,2023-05-28,Early,Johor Bahru-Johor-80000
+CA-2023-108854,Standard Class,Hero Van,2023-05-07,2023-05-17,Early,Kota Kinabalu-Sabah-88000
+CA-2023-108854,Second Class,HomeLaju,2023-05-21,2023-06-10,On time,Kuching-Sarawak-93000
+CA-2023-109085,Second Class,Parcel Express,2023-05-28,2023-06-27,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1094411,Second Class,Hero Van,2023-05-13,2023-05-23,Early,George Town-Penang-10200
+CA-2023-1094944,First Class,Parcel Express,2023-05-22,2023-06-21,Late,Johor Bahru-Johor-80000
+CA-2023-1096170,Standard Class,Hero Van,2023-05-11,2023-05-31,On time,Kota Kinabalu-Sabah-88000
+CA-2023-109879,Standard Class,Hero Van,2023-05-19,2023-06-08,On time,Kuching-Sarawak-93000
+CA-2023-1099181,Standard Class,Hero Van,2023-05-06,2023-05-26,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-109960,Standard Class,HomeLaju,2023-05-24,2023-06-13,On time,George Town-Penang-10200
+CA-2023-110310,Standard Class,Parcel Express,2023-05-20,2023-06-09,On time,Johor Bahru-Johor-80000
+CA-2023-1103130,First Class,HomeLaju,2023-05-18,2023-06-17,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1103846,Standard Class,Hero Van,2023-05-12,2023-06-11,Late,Kuching-Sarawak-93000
+CA-2023-110443,Standard Class,HomeLaju,2023-05-22,2023-06-01,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-110443,Second Class,Parcel Express,2023-05-03,2023-05-23,On time,George Town-Penang-10200
+CA-2023-1106543,Second Class,Hero Van,2023-05-16,2023-05-26,Early,Johor Bahru-Johor-80000
+CA-2023-1108911,Standard Class,Parcel Express,2023-05-17,2023-06-16,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1114156,Second Class,HomeLaju,2023-05-26,2023-06-05,Early,Kuching-Sarawak-93000
+CA-2023-1114248,Second Class,Hero Van,2023-05-03,2023-05-23,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1114386,Second Class,Hero Van,2023-05-06,2023-05-26,On time,George Town-Penang-10200
+CA-2023-111815,Second Class,HomeLaju,2023-05-28,2023-06-27,Late,Johor Bahru-Johor-80000
+CA-2023-111946,Second Class,HomeLaju,2023-05-21,2023-06-10,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1119497,Second Class,Parcel Express,2023-05-14,2023-06-03,On time,Kuching-Sarawak-93000
+CA-2023-1119892,Second Class,Hero Van,2023-05-05,2023-05-15,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1120389,Second Class,Hero Van,2023-05-21,2023-06-20,Late,George Town-Penang-10200
+CA-2023-1121669,Second Class,Parcel Express,2023-05-19,2023-06-18,Late,Johor Bahru-Johor-80000
+CA-2023-1127125,Second Class,Hero Van,2023-05-15,2023-06-04,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1127883,Second Class,Parcel Express,2023-05-02,2023-05-12,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1130628,Second Class,Parcel Express,2023-05-01,2023-05-11,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1131593,Second Class,Hero Van,2023-05-06,2023-06-05,#DIV/0!,George Town-Penang-10200
+CA-2023-1132256,Second Class,Hero Van,2023-05-17,2023-05-27,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1132260,Standard Class,HomeLaju,2023-05-07,2023-05-27,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1133774,Standard Class,Hero Van,2023-05-05,2023-06-04,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1135543,Standard Class,Hero Van,2023-05-09,2023-05-29,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-113705,Standard Class,Hero Van,2023-05-06,2023-05-26,#DIV/0!,George Town-Penang-10200
+CA-2023-1140126,Standard Class,Parcel Express,2023-05-18,2023-05-28,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1141093,Standard Class,Parcel Express,2023-05-27,2023-06-16,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1142732,Standard Class,Hero Van,2023-05-28,2023-06-17,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1143635,Standard Class,HomeLaju,2023-05-04,2023-05-24,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-114370,Standard Class,Parcel Express,2023-05-22,2023-06-01,#DIV/0!,George Town-Penang-10200
+CA-2023-1144834,Standard Class,Hero Van,2023-05-13,2023-06-02,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1145866,Standard Class,Parcel Express,2023-05-20,2023-06-09,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1147219,Standard Class,HomeLaju,2023-05-12,2023-06-11,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1149191,Standard Class,Parcel Express,2023-05-23,2023-06-22,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1151233,Standard Class,HomeLaju,2023-05-28,2023-06-07,#DIV/0!,George Town-Penang-10200
+CA-2023-1152900,Standard Class,Parcel Express,2023-05-22,2023-06-11,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1153035,Standard Class,Parcel Express,2023-05-11,2023-05-21,Early,Kota Kinabalu-Sabah-88000
+CA-2023-115427,Second Class,HomeLaju,2023-05-27,2023-06-16,On time,Kuching-Sarawak-93000
+CA-2023-1155084,Standard Class,HomeLaju,2023-05-16,2023-05-26,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-115602,Second Class,HomeLaju,2023-05-15,2023-06-14,Late,George Town-Penang-10200
+CA-2023-1156908,Second Class,HomeLaju,2023-05-12,2023-06-11,Late,Johor Bahru-Johor-80000
+CA-2023-1158452,Second Class,Hero Van,2023-05-21,2023-06-10,On time,Kota Kinabalu-Sabah-88000
+CA-2023-115882,Second Class,HomeLaju,2023-05-10,2023-05-30,On time,Kuching-Sarawak-93000
+CA-2023-1159005,Second Class,Hero Van,2023-05-14,2023-05-24,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1161176,Second Class,HomeLaju,2023-05-25,2023-06-14,On time,George Town-Penang-10200
+CA-2023-1162512,Standard Class,HomeLaju,2023-05-27,2023-06-06,Early,Johor Bahru-Johor-80000
+CA-2023-1164127,Standard Class,Hero Van,2023-05-20,2023-05-30,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1164286,Standard Class,Parcel Express,2023-05-25,2023-06-24,Late,Kuching-Sarawak-93000
+CA-2023-1164915,Standard Class,HomeLaju,2023-05-12,2023-05-22,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1166813,Standard Class,Parcel Express,2023-05-16,2023-06-05,On time,George Town-Penang-10200
+CA-2023-116715,Standard Class,HomeLaju,2023-05-21,2023-05-31,Early,Johor Bahru-Johor-80000
+CA-2023-1168933,Standard Class,HomeLaju,2023-05-12,2023-06-01,On time,Kota Kinabalu-Sabah-88000
+CA-2023-116946,First Class,Parcel Express,2023-05-04,2023-06-03,Late,Kuching-Sarawak-93000
+CA-2023-1170039,First Class,Hero Van,2023-05-18,2023-06-07,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-117009,First Class,HomeLaju,2023-05-24,2023-06-13,On time,George Town-Penang-10200
+CA-2023-1170997,First Class,HomeLaju,2023-05-21,2023-05-31,Early,Johor Bahru-Johor-80000
+CA-2023-1171347,Second Class,HomeLaju,2023-05-14,2023-06-03,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1171363,Second Class,Parcel Express,2023-05-20,2023-06-09,On time,Kuching-Sarawak-93000
+CA-2023-1171790,Second Class,Parcel Express,2023-05-21,2023-05-31,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1173929,Standard Class,Parcel Express,2023-05-11,2023-05-31,On time,George Town-Penang-10200
+CA-2023-117394,Standard Class,Parcel Express,2023-05-22,2023-06-21,Late,Johor Bahru-Johor-80000
+CA-2023-1174035,Standard Class,HomeLaju,2023-05-19,2023-06-08,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1175362,Second Class,Hero Van,2023-05-07,2023-05-27,On time,Kuching-Sarawak-93000
+CA-2023-1175526,Standard Class,HomeLaju,2023-05-06,2023-05-26,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-117632,Standard Class,HomeLaju,2023-05-23,2023-06-12,On time,George Town-Penang-10200
+CA-2023-1178928,Standard Class,Parcel Express,2023-05-16,2023-06-15,Late,Johor Bahru-Johor-80000
+CA-2023-117947,Standard Class,Parcel Express,2023-05-06,2023-06-05,Late,Kota Kinabalu-Sabah-88000
+CA-2023-117947,Standard Class,Parcel Express,2023-05-04,2023-05-24,On time,Kuching-Sarawak-93000
+CA-2023-118003,Standard Class,Hero Van,2023-05-20,2023-06-09,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1180581,Standard Class,Hero Van,2023-05-24,2023-06-23,Late,George Town-Penang-10200
+CA-2023-1181711,Standard Class,HomeLaju,2023-05-10,2023-06-09,Late,Johor Bahru-Johor-80000
+CA-2023-1181872,Standard Class,Hero Van,2023-05-24,2023-06-23,Late,Kota Kinabalu-Sabah-88000
+CA-2023-118213,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+CA-2023-1182292,Second Class,Parcel Express,2023-05-24,2023-06-23,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-11827,Standard Class,Hero Van,2023-05-11,2023-05-21,Early,George Town-Penang-10200
+CA-2023-1184100,Standard Class,Parcel Express,2023-05-24,2023-06-03,Early,Johor Bahru-Johor-80000
+CA-2023-118521,Standard Class,HomeLaju,2023-05-14,2023-06-13,Late,Kota Kinabalu-Sabah-88000
+CA-2023-118773,Standard Class,Parcel Express,2023-05-20,2023-06-19,Late,Kuching-Sarawak-93000
+CA-2023-1189759,First Class,Parcel Express,2023-05-17,2023-05-27,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1190798,First Class,Parcel Express,2023-05-16,2023-06-05,On time,George Town-Penang-10200
+CA-2023-1191085,First Class,HomeLaju,2023-05-10,2023-06-09,Late,Johor Bahru-Johor-80000
+CA-2023-1191233,Standard Class,HomeLaju,2023-05-15,2023-06-14,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1191610,Standard Class,Parcel Express,2023-05-26,2023-06-15,On time,Kuching-Sarawak-93000
+CA-2023-1191653,Standard Class,HomeLaju,2023-05-27,2023-06-26,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1193617,Standard Class,HomeLaju,2023-05-02,2023-05-22,On time,George Town-Penang-10200
+CA-2023-119494,Standard Class,HomeLaju,2023-05-01,2023-05-21,On time,Johor Bahru-Johor-80000
+CA-2023-1195298,Standard Class,Parcel Express,2023-05-02,2023-05-22,On time,Kota Kinabalu-Sabah-88000
+CA-2023-119746,Standard Class,Parcel Express,2023-05-09,2023-05-19,Early,Kuching-Sarawak-93000
+CA-2023-1200436,Standard Class,Hero Van,2023-05-14,2023-05-24,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1200472,Standard Class,HomeLaju,2023-05-21,2023-05-31,Early,George Town-Penang-10200
+CA-2023-1201212,First Class,Hero Van,2023-05-15,2023-05-25,Early,Johor Bahru-Johor-80000
+CA-2023-1201467,First Class,Hero Van,2023-05-15,2023-06-04,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1202600,First Class,Hero Van,2023-05-19,2023-05-29,Early,Kuching-Sarawak-93000
+CA-2023-1203582,Standard Class,HomeLaju,2023-05-12,2023-06-01,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-120404,Standard Class,HomeLaju,2023-05-09,2023-06-08,Late,George Town-Penang-10200
+CA-2023-1204448,Standard Class,HomeLaju,2023-05-20,2023-05-30,Early,Johor Bahru-Johor-80000
+CA-2023-1204501,Standard Class,Parcel Express,2023-05-02,2023-06-01,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1204656,Standard Class,Hero Van,2023-05-23,2023-06-02,Early,Kuching-Sarawak-93000
+CA-2023-1205113,Standard Class,Parcel Express,2023-05-11,2023-06-10,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1205901,Second Class,Hero Van,2023-05-21,2023-06-10,On time,George Town-Penang-10200
+CA-2023-1208228,Standard Class,Parcel Express,2023-05-08,2023-05-18,Early,Johor Bahru-Johor-80000
+CA-2023-1209088,Second Class,Parcel Express,2023-05-27,2023-06-16,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1209109,Second Class,Hero Van,2023-05-26,2023-06-05,Early,Kuching-Sarawak-93000
+CA-2023-121048,Standard Class,HomeLaju,2023-05-03,2023-05-13,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-121160,Second Class,HomeLaju,2023-05-17,2023-06-06,On time,George Town-Penang-10200
+CA-2023-1212621,Standard Class,HomeLaju,2023-05-04,2023-05-14,Early,Johor Bahru-Johor-80000
+CA-2023-121300,Standard Class,Hero Van,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1213825,Standard Class,Parcel Express,2023-05-23,2023-06-12,On time,Kuching-Sarawak-93000
+CA-2023-1215236,First Class,Parcel Express,2023-05-01,2023-05-21,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1215700,First Class,HomeLaju,2023-05-07,2023-05-27,On time,George Town-Penang-10200
+CA-2023-1218238,Standard Class,Hero Van,2023-05-20,2023-05-30,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-12189,Standard Class,Hero Van,2023-05-03,2023-05-23,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1219578,Standard Class,HomeLaju,2023-05-19,2023-06-08,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1221517,Standard Class,Parcel Express,2023-05-19,2023-06-08,On time,Kuching-Sarawak-93000
+CA-2023-122280,Standard Class,Hero Van,2023-05-23,2023-06-12,On time,Kuching-Sarawak-93000
+CA-2023-1224286,Standard Class,Parcel Express,2023-05-05,2023-05-25,On time,Kuching-Sarawak-93000
+CA-2023-1224456,Standard Class,Hero Van,2023-05-16,2023-06-05,On time,George Town-Penang-10200
+CA-2023-122700,Standard Class,Parcel Express,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+CA-2023-122735,Standard Class,Hero Van,2023-05-08,2023-06-07,Late,Johor Bahru-Johor-80000
+CA-2023-122770,Standard Class,Hero Van,2023-05-07,2023-05-27,On time,Johor Bahru-Johor-80000
+CA-2023-1227946,Second Class,Parcel Express,2023-05-16,2023-06-15,Late,Johor Bahru-Johor-80000
+CA-2023-1229121,Second Class,HomeLaju,2023-05-20,2023-05-30,Early,Johor Bahru-Johor-80000
+CA-2023-1229472,Second Class,Parcel Express,2023-05-18,2023-06-07,On time,Johor Bahru-Johor-80000
+CA-2023-122987,Second Class,HomeLaju,2023-05-03,2023-06-02,Late,Kota Kinabalu-Sabah-88000
+CA-2023-123001,Second Class,Parcel Express,2023-05-21,2023-06-10,On time,Kota Kinabalu-Sabah-88000
+CA-2023-12303,Second Class,HomeLaju,2023-05-11,2023-05-31,On time,Kota Kinabalu-Sabah-88000
+CA-2023-123049,Second Class,HomeLaju,2023-05-02,2023-06-01,Late,Kota Kinabalu-Sabah-88000
+CA-2023-123077,Second Class,Parcel Express,2023-05-02,2023-05-22,On time,Kota Kinabalu-Sabah-88000
+CA-2023-123246,Standard Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-123491,Standard Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-123624,Standard Class,HomeLaju,2023-05-16,2023-05-26,Early,Johor Bahru-Johor-80000
+CA-2023-1236909,Standard Class,Parcel Express,2023-05-13,2023-06-02,On time,Johor Bahru-Johor-80000
+CA-2023-1238255,Standard Class,HomeLaju,2023-05-22,2023-06-01,Early,Johor Bahru-Johor-80000
+CA-2023-1238520,Standard Class,Parcel Express,2023-05-14,2023-06-13,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1239703,Standard Class,Parcel Express,2023-05-26,2023-06-25,Late,Kota Kinabalu-Sabah-88000
+CA-2023-124311,Standard Class,Hero Van,2023-05-05,2023-05-25,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1244274,Standard Class,Hero Van,2023-05-01,2023-05-21,On time,Kuching-Sarawak-93000
+CA-2023-1244623,Standard Class,Hero Van,2023-05-13,2023-06-02,On time,Kuching-Sarawak-93000
+CA-2023-1245009,Standard Class,Parcel Express,2023-05-03,2023-06-02,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1247656,Standard Class,Hero Van,2023-05-15,2023-05-25,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1250111,Standard Class,Parcel Express,2023-05-22,2023-06-11,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-125037,Standard Class,HomeLaju,2023-05-01,2023-05-31,Late,Johor Bahru-Johor-80000
+CA-2023-1251714,Standard Class,HomeLaju,2023-05-01,2023-05-21,On time,Johor Bahru-Johor-80000
+CA-2023-1252131,Standard Class,Hero Van,2023-05-16,2023-05-26,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1252290,Standard Class,Parcel Express,2023-05-27,2023-06-16,On time,Kota Kinabalu-Sabah-88000
+CA-2023-125269,Standard Class,HomeLaju,2023-05-16,2023-06-05,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1252774,Second Class,Parcel Express,2023-05-26,2023-06-25,Late,Kuching-Sarawak-93000
+CA-2023-125312,Second Class,Parcel Express,2023-05-16,2023-06-05,On time,Kuching-Sarawak-93000
+CA-2023-1253334,First Class,Hero Van,2023-05-23,2023-06-02,Early,George Town-Penang-10200
+CA-2023-125362,First Class,Hero Van,2023-05-26,2023-06-15,On time,George Town-Penang-10200
+CA-2023-125451,Standard Class,HomeLaju,2023-05-23,2023-06-22,Late,Johor Bahru-Johor-80000
+CA-2023-1256097,Standard Class,Parcel Express,2023-05-09,2023-05-19,Early,Johor Bahru-Johor-80000
+CA-2023-1258449,Standard Class,Hero Van,2023-05-15,2023-06-14,Late,Johor Bahru-Johor-80000
+CA-2023-125990,Standard Class,Hero Van,2023-05-13,2023-06-02,On time,Johor Bahru-Johor-80000
+CA-2023-126067,Standard Class,Parcel Express,2023-05-28,2023-06-07,Early,Johor Bahru-Johor-80000
+CA-2023-1262596,First Class,HomeLaju,2023-05-27,2023-06-16,On time,Kuching-Sarawak-93000
+CA-2023-1263179,First Class,Hero Van,2023-05-08,2023-05-28,On time,Kuching-Sarawak-93000
+CA-2023-126354,Standard Class,Hero Van,2023-05-14,2023-06-03,On time,Johor Bahru-Johor-80000
+CA-2023-1265376,Standard Class,Parcel Express,2023-05-24,2023-06-23,Late,Johor Bahru-Johor-80000
+CA-2023-1265937,Standard Class,Hero Van,2023-05-01,2023-05-11,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1265990,Standard Class,Parcel Express,2023-05-24,2023-06-13,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1267794,Standard Class,Hero Van,2023-05-28,2023-06-07,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1270164,Standard Class,Parcel Express,2023-05-11,2023-06-10,Late,Kuching-Sarawak-93000
+CA-2023-127096,Standard Class,Parcel Express,2023-05-01,2023-05-11,Early,Kuching-Sarawak-93000
+CA-2023-127211,Standard Class,Parcel Express,2023-05-18,2023-06-07,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1272512,Standard Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1274117,Standard Class,HomeLaju,2023-05-16,2023-06-15,Late,Johor Bahru-Johor-80000
+CA-2023-127516,Standard Class,Parcel Express,2023-05-21,2023-05-31,Early,Johor Bahru-Johor-80000
+CA-2023-1276169,Standard Class,Hero Van,2023-05-10,2023-06-09,Late,Johor Bahru-Johor-80000
+CA-2023-1276619,Standard Class,HomeLaju,2023-05-10,2023-06-09,Late,Kota Kinabalu-Sabah-88000
+CA-2023-127782,Standard Class,Hero Van,2023-05-15,2023-05-25,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1277914,First Class,Parcel Express,2023-05-09,2023-05-29,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1279314,First Class,Parcel Express,2023-05-21,2023-06-10,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1280130,First Class,HomeLaju,2023-05-02,2023-05-12,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1282340,First Class,Hero Van,2023-05-07,2023-05-27,On time,George Town-Penang-10200
+CA-2023-128370,First Class,Parcel Express,2023-05-19,2023-05-29,Early,George Town-Penang-10200
+CA-2023-1284729,First Class,Parcel Express,2023-05-05,2023-05-25,On time,George Town-Penang-10200
+CA-2023-1286301,First Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-1287451,First Class,Parcel Express,2023-05-10,2023-05-20,Early,Kuching-Sarawak-93000
+CA-2023-128755,First Class,Parcel Express,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+CA-2023-1289143,Standard Class,Parcel Express,2023-05-02,2023-05-22,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-129021,Standard Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1290875,Standard Class,HomeLaju,2023-05-08,2023-06-07,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1291628,Standard Class,HomeLaju,2023-05-08,2023-05-28,On time,George Town-Penang-10200
+CA-2023-1291706,Standard Class,HomeLaju,2023-05-12,2023-05-22,Early,George Town-Penang-10200
+CA-2023-1292943,Standard Class,HomeLaju,2023-05-02,2023-06-01,Late,George Town-Penang-10200
+CA-2023-1294447,Standard Class,Parcel Express,2023-05-15,2023-06-14,Late,Johor Bahru-Johor-80000
+CA-2023-1295221,Standard Class,HomeLaju,2023-05-03,2023-05-13,Early,Johor Bahru-Johor-80000
+CA-2023-1297383,Standard Class,HomeLaju,2023-05-22,2023-06-11,On time,Johor Bahru-Johor-80000
+CA-2023-1299480,First Class,Hero Van,2023-05-10,2023-06-09,Late,Kuching-Sarawak-93000
+CA-2023-1300409,First Class,Parcel Express,2023-05-18,2023-05-28,Early,Kuching-Sarawak-93000
+CA-2023-1301227,First Class,Parcel Express,2023-05-28,2023-06-17,On time,Kuching-Sarawak-93000
+CA-2023-130270,Second Class,HomeLaju,2023-05-23,2023-06-12,On time,George Town-Penang-10200
+CA-2023-1304093,Second Class,Parcel Express,2023-05-04,2023-05-24,On time,George Town-Penang-10200
+CA-2023-1305905,Second Class,Parcel Express,2023-05-27,2023-06-16,On time,George Town-Penang-10200
+CA-2023-130715,Standard Class,Parcel Express,2023-05-19,2023-06-08,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1308647,Standard Class,Hero Van,2023-05-04,2023-05-24,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1308754,Standard Class,Hero Van,2023-05-02,2023-06-01,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1309262,Standard Class,Parcel Express,2023-05-25,2023-06-04,Early,Kuching-Sarawak-93000
+CA-2023-1310673,Standard Class,Hero Van,2023-05-24,2023-06-03,Early,Kuching-Sarawak-93000
+CA-2023-1312197,Second Class,Parcel Express,2023-05-25,2023-06-24,Late,Kota Kinabalu-Sabah-88000
+CA-2023-131282,Second Class,Hero Van,2023-05-18,2023-06-07,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1315521,Second Class,Parcel Express,2023-05-25,2023-06-14,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1316653,First Class,Parcel Express,2023-05-24,2023-06-13,On time,Kuching-Sarawak-93000
+CA-2023-1316963,First Class,HomeLaju,2023-05-06,2023-06-05,Late,Kuching-Sarawak-93000
+CA-2023-1317349,Standard Class,Parcel Express,2023-05-20,2023-06-19,Late,Johor Bahru-Johor-80000
+CA-2023-1317449,Standard Class,Parcel Express,2023-05-05,2023-06-04,Late,Johor Bahru-Johor-80000
+CA-2023-131828,Standard Class,Hero Van,2023-05-20,2023-05-30,Early,Kota Kinabalu-Sabah-88000
+CA-2023-131872,Standard Class,Parcel Express,2023-05-23,2023-06-12,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1320376,Standard Class,Hero Van,2023-05-25,2023-06-14,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1320669,First Class,Hero Van,2023-05-28,2023-06-27,Late,Kuching-Sarawak-93000
+CA-2023-1320762,First Class,Parcel Express,2023-05-09,2023-06-08,Late,Kuching-Sarawak-93000
+CA-2023-132199,Second Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-132199,Second Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1322825,Second Class,Parcel Express,2023-05-07,2023-05-27,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1323183,Standard Class,HomeLaju,2023-05-26,2023-06-15,On time,George Town-Penang-10200
+CA-2023-132566,Standard Class,HomeLaju,2023-05-11,2023-06-10,Late,George Town-Penang-10200
+CA-2023-1326535,Standard Class,Parcel Express,2023-05-10,2023-05-20,Early,George Town-Penang-10200
+CA-2023-132753,Standard Class,Parcel Express,2023-05-01,2023-05-21,On time,George Town-Penang-10200
+CA-2023-1328259,Standard Class,Parcel Express,2023-05-28,2023-06-17,On time,George Town-Penang-10200
+CA-2023-1328358,Standard Class,Parcel Express,2023-05-06,2023-06-05,Late,George Town-Penang-10200
+CA-2023-1328397,Second Class,Hero Van,2023-05-09,2023-06-08,Late,Johor Bahru-Johor-80000
+CA-2023-1330040,Second Class,Hero Van,2023-05-26,2023-06-25,Late,Johor Bahru-Johor-80000
+CA-2023-1332131,Second Class,Parcel Express,2023-05-22,2023-06-01,Early,Johor Bahru-Johor-80000
+CA-2023-1332393,Standard Class,HomeLaju,2023-05-05,2023-05-15,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1333620,Standard Class,Parcel Express,2023-05-01,2023-05-31,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-133635,Second Class,Parcel Express,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+CA-2023-1336526,Second Class,Parcel Express,2023-05-19,2023-05-29,Early,George Town-Penang-10200
+CA-2023-1336688,Standard Class,HomeLaju,2023-05-06,2023-05-16,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1337490,Standard Class,Hero Van,2023-05-02,2023-05-12,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1339556,Standard Class,Hero Van,2023-05-14,2023-05-24,Early,Kuching-Sarawak-93000
+CA-2023-134194,Standard Class,Parcel Express,2023-05-06,2023-06-05,Late,Kuching-Sarawak-93000
+CA-2023-1343423,Standard Class,Parcel Express,2023-05-05,2023-05-15,Early,Johor Bahru-Johor-80000
+CA-2023-1345051,Standard Class,HomeLaju,2023-05-27,2023-06-26,Late,Johor Bahru-Johor-80000
+CA-2023-1346159,Standard Class,Hero Van,2023-05-18,2023-06-07,On time,Johor Bahru-Johor-80000
+CA-2023-1346618,Standard Class,HomeLaju,2023-05-25,2023-06-04,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1347241,Standard Class,Hero Van,2023-05-01,2023-05-11,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1350343,Standard Class,Parcel Express,2023-05-14,2023-06-03,On time,Kota Kinabalu-Sabah-88000
+CA-2023-135122,Standard Class,Parcel Express,2023-05-28,2023-06-07,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-135167,Standard Class,Parcel Express,2023-05-01,2023-05-31,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1351968,Standard Class,HomeLaju,2023-05-16,2023-06-15,Late,George Town-Penang-10200
+CA-2023-1352745,Standard Class,Parcel Express,2023-05-17,2023-05-27,Early,George Town-Penang-10200
+CA-2023-135279,Standard Class,Hero Van,2023-05-25,2023-06-24,Late,George Town-Penang-10200
+CA-2023-1352935,Second Class,HomeLaju,2023-05-23,2023-06-12,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1353991,Second Class,HomeLaju,2023-05-19,2023-05-29,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1354018,Second Class,HomeLaju,2023-05-22,2023-06-01,Early,Kuching-Sarawak-93000
+CA-2023-1354128,Second Class,Hero Van,2023-05-10,2023-05-20,Early,Kuching-Sarawak-93000
+CA-2023-1355322,Second Class,Hero Van,2023-05-07,2023-06-06,Late,Kuching-Sarawak-93000
+CA-2023-135692,Second Class,Parcel Express,2023-05-03,2023-05-23,On time,George Town-Penang-10200
+CA-2023-1357801,Second Class,Parcel Express,2023-05-12,2023-05-22,Early,George Town-Penang-10200
+CA-2023-1358726,Second Class,Parcel Express,2023-05-16,2023-05-26,Early,George Town-Penang-10200
+CA-2023-1361184,Standard Class,Parcel Express,2023-05-12,2023-05-22,Early,Johor Bahru-Johor-80000
+CA-2023-1361215,Standard Class,Hero Van,2023-05-04,2023-06-03,Late,Johor Bahru-Johor-80000
+CA-2023-13614,Standard Class,Hero Van,2023-05-04,2023-05-24,On time,Johor Bahru-Johor-80000
+CA-2023-1362829,Standard Class,Parcel Express,2023-05-25,2023-06-24,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1362881,Standard Class,Parcel Express,2023-05-03,2023-05-13,Early,Kota Kinabalu-Sabah-88000
+CA-2023-136511,Standard Class,HomeLaju,2023-05-03,2023-05-23,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1366078,First Class,Hero Van,2023-05-25,2023-06-24,Late,Kuching-Sarawak-93000
+CA-2023-13664,First Class,HomeLaju,2023-05-06,2023-05-16,Early,Kuching-Sarawak-93000
+CA-2023-1366436,First Class,Parcel Express,2023-05-22,2023-06-11,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1367532,First Class,Parcel Express,2023-05-21,2023-06-10,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1367551,First Class,Hero Van,2023-05-09,2023-05-29,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-137022,First Class,Parcel Express,2023-05-13,2023-05-23,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1370727,First Class,Parcel Express,2023-05-26,2023-06-15,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1370817,First Class,Parcel Express,2023-05-11,2023-05-31,On time,Kota Kinabalu-Sabah-88000
+CA-2023-13725,Standard Class,Parcel Express,2023-05-15,2023-05-25,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-137463,Standard Class,Parcel Express,2023-05-21,2023-05-31,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1376155,Second Class,Hero Van,2023-05-11,2023-05-21,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1380032,Second Class,HomeLaju,2023-05-24,2023-06-03,Early,Kota Kinabalu-Sabah-88000
+CA-2023-138016,Second Class,Parcel Express,2023-05-01,2023-05-11,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1380229,Second Class,HomeLaju,2023-05-18,2023-05-28,Early,Kuching-Sarawak-93000
+CA-2023-1382600,Second Class,Parcel Express,2023-05-28,2023-06-07,Early,Kuching-Sarawak-93000
+CA-2023-1383018,Second Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuching-Sarawak-93000
+CA-2023-1384798,Standard Class,Parcel Express,2023-05-22,2023-06-11,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1385305,Standard Class,Parcel Express,2023-05-06,2023-05-16,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1387835,Standard Class,HomeLaju,2023-05-19,2023-06-08,On time,Kuching-Sarawak-93000
+CA-2023-1388476,Standard Class,Hero Van,2023-05-13,2023-06-12,Late,Kuching-Sarawak-93000
+CA-2023-1394232,Standard Class,Hero Van,2023-05-12,2023-06-11,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-139493,Standard Class,Hero Van,2023-05-19,2023-06-08,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-139822,Standard Class,Parcel Express,2023-05-05,2023-05-25,On time,George Town-Penang-10200
+CA-2023-1398954,Standard Class,Parcel Express,2023-05-11,2023-05-21,Early,George Town-Penang-10200
+CA-2023-1399151,Standard Class,Hero Van,2023-05-20,2023-06-09,On time,George Town-Penang-10200
+CA-2023-140122,Second Class,Parcel Express,2023-05-05,2023-06-04,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1401466,Second Class,Hero Van,2023-05-07,2023-05-17,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-140242,Standard Class,Parcel Express,2023-05-05,2023-06-04,Late,Johor Bahru-Johor-80000
+CA-2023-1404718,Standard Class,Hero Van,2023-05-27,2023-06-26,Late,Johor Bahru-Johor-80000
+CA-2023-1406887,Standard Class,Parcel Express,2023-05-15,2023-06-14,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1407189,Standard Class,Parcel Express,2023-05-20,2023-06-09,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1408821,Standard Class,HomeLaju,2023-05-21,2023-06-10,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1409205,Standard Class,HomeLaju,2023-05-07,2023-05-27,On time,Kuching-Sarawak-93000
+CA-2023-1409851,Standard Class,Hero Van,2023-05-14,2023-06-03,On time,Kuching-Sarawak-93000
+CA-2023-1412447,Standard Class,Hero Van,2023-05-06,2023-05-26,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1413238,Standard Class,HomeLaju,2023-05-08,2023-05-28,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1415288,Standard Class,Parcel Express,2023-05-10,2023-05-30,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1416080,Standard Class,Parcel Express,2023-05-27,2023-06-06,Early,Kuching-Sarawak-93000
+CA-2023-1418236,Standard Class,Hero Van,2023-05-05,2023-06-04,Late,Kuching-Sarawak-93000
+CA-2023-1418469,First Class,Parcel Express,2023-05-26,2023-06-25,Late,Kuching-Sarawak-93000
+CA-2023-1420044,First Class,Hero Van,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-1420554,First Class,Parcel Express,2023-05-08,2023-05-28,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1424900,First Class,HomeLaju,2023-05-15,2023-05-25,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1425044,First Class,HomeLaju,2023-05-28,2023-06-07,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1425295,Second Class,Hero Van,2023-05-10,2023-05-20,Early,Johor Bahru-Johor-80000
+CA-2023-1426196,Second Class,Hero Van,2023-05-21,2023-06-10,On time,Johor Bahru-Johor-80000
+CA-2023-142776,Second Class,Parcel Express,2023-05-13,2023-06-02,On time,Johor Bahru-Johor-80000
+CA-2023-1428808,Standard Class,HomeLaju,2023-05-27,2023-06-16,On time,Kuching-Sarawak-93000
+CA-2023-1429569,Standard Class,HomeLaju,2023-05-27,2023-06-06,Early,Kuching-Sarawak-93000
+CA-2023-1430600,Standard Class,Parcel Express,2023-05-08,2023-05-28,On time,Kuching-Sarawak-93000
+CA-2023-1431618,Standard Class,HomeLaju,2023-05-13,2023-06-02,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-143756,Standard Class,HomeLaju,2023-05-05,2023-05-25,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1438671,Standard Class,HomeLaju,2023-05-21,2023-06-20,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1441750,Standard Class,Hero Van,2023-05-26,2023-06-05,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1443427,Standard Class,Parcel Express,2023-05-16,2023-06-05,On time,Kota Kinabalu-Sabah-88000
+CA-2023-144474,Standard Class,Hero Van,2023-05-16,2023-06-05,On time,Kuching-Sarawak-93000
+CA-2023-144491,Standard Class,Hero Van,2023-05-19,2023-06-08,On time,Kuching-Sarawak-93000
+CA-2023-1446122,Standard Class,Hero Van,2023-05-21,2023-06-10,On time,Kuching-Sarawak-93000
+CA-2023-1446501,Standard Class,Parcel Express,2023-05-03,2023-05-13,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1446604,Standard Class,Hero Van,2023-05-18,2023-05-28,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1448513,Standard Class,Hero Van,2023-05-07,2023-06-06,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-144904,Second Class,HomeLaju,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+CA-2023-145093,Second Class,HomeLaju,2023-05-28,2023-06-17,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1451559,Second Class,Parcel Express,2023-05-16,2023-06-05,On time,Kota Kinabalu-Sabah-88000
+CA-2023-145226,Second Class,HomeLaju,2023-05-14,2023-06-03,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1455175,Second Class,Hero Van,2023-05-12,2023-06-11,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1457386,Second Class,Hero Van,2023-05-09,2023-05-29,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1457847,Second Class,Parcel Express,2023-05-05,2023-06-04,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1458595,Standard Class,HomeLaju,2023-05-14,2023-06-03,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1462261,Standard Class,Hero Van,2023-05-02,2023-06-01,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1462764,Standard Class,Parcel Express,2023-05-23,2023-06-22,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-146360,Standard Class,Parcel Express,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+CA-2023-1463918,Standard Class,Parcel Express,2023-05-06,2023-05-26,On time,George Town-Penang-10200
+CA-2023-1464370,Standard Class,HomeLaju,2023-05-21,2023-05-31,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1464723,Standard Class,HomeLaju,2023-05-10,2023-05-20,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1464751,Standard Class,Hero Van,2023-05-11,2023-05-21,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1465139,First Class,Parcel Express,2023-05-07,2023-06-06,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1466223,First Class,HomeLaju,2023-05-23,2023-06-22,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1468767,First Class,Hero Van,2023-05-28,2023-06-17,On time,George Town-Penang-10200
+CA-2023-1470074,First Class,HomeLaju,2023-05-07,2023-06-06,Late,George Town-Penang-10200
+CA-2023-147354,First Class,HomeLaju,2023-05-25,2023-06-24,Late,Johor Bahru-Johor-80000
+CA-2023-1475055,First Class,HomeLaju,2023-05-13,2023-06-12,Late,Johor Bahru-Johor-80000
+CA-2023-1476090,First Class,Parcel Express,2023-05-19,2023-06-18,Late,Johor Bahru-Johor-80000
+CA-2023-1477643,Standard Class,Parcel Express,2023-05-04,2023-05-24,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1482387,Standard Class,HomeLaju,2023-05-11,2023-05-21,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1484543,Standard Class,Hero Van,2023-05-17,2023-06-16,Late,George Town-Penang-10200
+CA-2023-1485032,Standard Class,HomeLaju,2023-05-01,2023-05-21,On time,George Town-Penang-10200
+CA-2023-1485979,Standard Class,HomeLaju,2023-05-20,2023-06-09,On time,George Town-Penang-10200
+CA-2023-1487477,Standard Class,Hero Van,2023-05-20,2023-05-30,Early,Johor Bahru-Johor-80000
+CA-2023-1487689,Standard Class,Hero Van,2023-05-28,2023-06-17,On time,Johor Bahru-Johor-80000
+CA-2023-1490226,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Johor Bahru-Johor-80000
+CA-2023-1491456,Standard Class,Hero Van,2023-05-23,2023-06-22,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1496334,Standard Class,Hero Van,2023-05-24,2023-06-13,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1497744,Standard Class,HomeLaju,2023-05-12,2023-06-11,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-149838,Standard Class,HomeLaju,2023-05-19,2023-06-18,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1499329,Standard Class,HomeLaju,2023-05-13,2023-05-23,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-149944,First Class,Hero Van,2023-05-26,2023-06-25,Late,George Town-Penang-10200
+CA-2023-1500614,First Class,HomeLaju,2023-05-18,2023-06-17,Late,George Town-Penang-10200
+CA-2023-1500740,Second Class,HomeLaju,2023-05-24,2023-06-03,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1501472,Second Class,Hero Van,2023-05-07,2023-05-17,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1502510,Second Class,Parcel Express,2023-05-24,2023-06-23,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1504400,Standard Class,Parcel Express,2023-05-04,2023-06-03,Late,Kuching-Sarawak-93000
+CA-2023-15064,Standard Class,Parcel Express,2023-05-15,2023-06-14,Late,Kuching-Sarawak-93000
+CA-2023-1509375,Standard Class,HomeLaju,2023-05-18,2023-06-07,On time,Kota Kinabalu-Sabah-88000
+CA-2023-151176,Standard Class,Hero Van,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1512081,Standard Class,Hero Van,2023-05-02,2023-06-01,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1513581,Standard Class,Hero Van,2023-05-16,2023-05-26,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-151484,Standard Class,Hero Van,2023-05-18,2023-06-17,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1514999,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1516896,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Johor Bahru-Johor-80000
+CA-2023-151750,Standard Class,Hero Van,2023-05-28,2023-06-27,Late,Johor Bahru-Johor-80000
+CA-2023-1518412,Standard Class,HomeLaju,2023-05-26,2023-06-05,Early,Johor Bahru-Johor-80000
+CA-2023-151855,Standard Class,Parcel Express,2023-05-17,2023-05-27,Early,Kuching-Sarawak-93000
+CA-2023-1518947,Standard Class,Parcel Express,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-152310,Standard Class,Hero Van,2023-05-03,2023-05-23,On time,Kuching-Sarawak-93000
+CA-2023-1523796,Standard Class,Parcel Express,2023-05-12,2023-05-22,Early,George Town-Penang-10200
+CA-2023-152554,Standard Class,Parcel Express,2023-05-23,2023-06-02,Early,George Town-Penang-10200
+CA-2023-1527652,Standard Class,Hero Van,2023-05-28,2023-06-27,Late,Johor Bahru-Johor-80000
+CA-2023-152807,Standard Class,Hero Van,2023-05-26,2023-06-05,Early,Johor Bahru-Johor-80000
+CA-2023-1531705,First Class,HomeLaju,2023-05-07,2023-06-06,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1531859,First Class,HomeLaju,2023-05-10,2023-05-20,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-153286,First Class,Hero Van,2023-05-21,2023-06-20,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1533483,First Class,HomeLaju,2023-05-22,2023-06-01,Early,Johor Bahru-Johor-80000
+CA-2023-1533748,First Class,Hero Van,2023-05-03,2023-05-23,On time,Johor Bahru-Johor-80000
+CA-2023-1534209,First Class,Hero Van,2023-05-05,2023-06-04,Late,Johor Bahru-Johor-80000
+CA-2023-1537602,Standard Class,HomeLaju,2023-05-22,2023-06-01,Early,Johor Bahru-Johor-80000
+CA-2023-1540562,Standard Class,Parcel Express,2023-05-11,2023-05-31,On time,Johor Bahru-Johor-80000
+CA-2023-1544162,Standard Class,Parcel Express,2023-05-15,2023-05-25,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1545380,Standard Class,Parcel Express,2023-05-27,2023-06-06,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1545649,Standard Class,HomeLaju,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+CA-2023-1547125,Standard Class,Parcel Express,2023-05-10,2023-05-30,On time,Kuching-Sarawak-93000
+CA-2023-1547559,Standard Class,HomeLaju,2023-05-27,2023-06-26,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1548826,Standard Class,HomeLaju,2023-05-07,2023-06-06,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1549835,Standard Class,Parcel Express,2023-05-04,2023-06-03,Late,George Town-Penang-10200
+CA-2023-1550728,Standard Class,HomeLaju,2023-05-26,2023-06-15,On time,George Town-Penang-10200
+CA-2023-1551748,Standard Class,HomeLaju,2023-05-01,2023-05-31,Late,Johor Bahru-Johor-80000
+CA-2023-1552378,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Johor Bahru-Johor-80000
+CA-2023-1552395,Standard Class,HomeLaju,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1556476,Standard Class,HomeLaju,2023-05-06,2023-05-26,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1557707,Standard Class,Hero Van,2023-05-25,2023-06-14,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1558166,Standard Class,Parcel Express,2023-05-08,2023-05-28,On time,Kuching-Sarawak-93000
+CA-2023-1558213,Standard Class,Hero Van,2023-05-03,2023-06-02,Late,Kuching-Sarawak-93000
+CA-2023-156237,Second Class,Hero Van,2023-05-19,2023-06-08,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1563441,Second Class,Hero Van,2023-05-18,2023-05-28,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1564775,Second Class,Hero Van,2023-05-12,2023-05-22,Early,George Town-Penang-10200
+CA-2023-156769,Second Class,Parcel Express,2023-05-18,2023-06-07,On time,George Town-Penang-10200
+CA-2023-1570566,Second Class,Hero Van,2023-05-23,2023-06-22,Late,George Town-Penang-10200
+CA-2023-1570873,Second Class,Hero Van,2023-05-25,2023-06-04,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1573270,Second Class,Parcel Express,2023-05-18,2023-06-17,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1574010,Second Class,HomeLaju,2023-05-28,2023-06-17,On time,Kota Kinabalu-Sabah-88000
+CA-2023-157469,Second Class,HomeLaju,2023-05-07,2023-06-06,Late,Kuching-Sarawak-93000
+CA-2023-1574983,Second Class,Hero Van,2023-05-24,2023-06-23,Late,Kuching-Sarawak-93000
+CA-2023-157554,Second Class,HomeLaju,2023-05-11,2023-05-21,Early,Kuching-Sarawak-93000
+CA-2023-1576663,Second Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1577447,Second Class,HomeLaju,2023-05-18,2023-06-07,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1577963,Second Class,Parcel Express,2023-05-18,2023-06-07,On time,George Town-Penang-10200
+CA-2023-1578409,Second Class,HomeLaju,2023-05-27,2023-06-16,On time,George Town-Penang-10200
+CA-2023-157966,Second Class,HomeLaju,2023-05-04,2023-06-03,Late,Kuching-Sarawak-93000
+CA-2023-1580691,Second Class,Hero Van,2023-05-06,2023-06-05,Late,Kuching-Sarawak-93000
+CA-2023-158071,Standard Class,Parcel Express,2023-05-15,2023-06-04,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-158071,Standard Class,Parcel Express,2023-05-14,2023-06-13,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-158133,Standard Class,HomeLaju,2023-05-27,2023-06-06,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1583648,Standard Class,Hero Van,2023-05-21,2023-06-20,Late,Kuching-Sarawak-93000
+CA-2023-1585233,Standard Class,HomeLaju,2023-05-02,2023-05-12,Early,Kuching-Sarawak-93000
+CA-2023-1585418,Standard Class,HomeLaju,2023-05-10,2023-05-20,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1587177,Standard Class,HomeLaju,2023-05-17,2023-05-27,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-158722,Standard Class,Parcel Express,2023-05-05,2023-05-25,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-158734,Standard Class,Parcel Express,2023-05-19,2023-05-29,Early,Johor Bahru-Johor-80000
+CA-2023-158743,Standard Class,HomeLaju,2023-05-12,2023-06-01,On time,Johor Bahru-Johor-80000
+CA-2023-1588179,Standard Class,Hero Van,2023-05-14,2023-06-03,On time,Johor Bahru-Johor-80000
+CA-2023-1590526,Standard Class,Parcel Express,2023-05-10,2023-06-09,Late,George Town-Penang-10200
+CA-2023-159100,Standard Class,Hero Van,2023-05-06,2023-05-26,On time,George Town-Penang-10200
+CA-2023-1593394,Standard Class,Parcel Express,2023-05-22,2023-06-01,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1593866,Standard Class,HomeLaju,2023-05-20,2023-06-19,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1594423,Standard Class,Parcel Express,2023-05-10,2023-05-30,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1594567,Standard Class,Parcel Express,2023-05-21,2023-05-31,Early,Kota Kinabalu-Sabah-88000
+CA-2023-159743,Standard Class,Parcel Express,2023-05-04,2023-05-14,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1599297,First Class,Hero Van,2023-05-22,2023-06-11,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1600793,First Class,Hero Van,2023-05-09,2023-05-19,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1603783,First Class,HomeLaju,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1605761,First Class,Parcel Express,2023-05-09,2023-05-29,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1607268,First Class,HomeLaju,2023-05-01,2023-05-21,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1608737,First Class,Parcel Express,2023-05-03,2023-05-13,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-161067,Standard Class,Hero Van,2023-05-15,2023-06-14,Late,George Town-Penang-10200
+CA-2023-1610802,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,George Town-Penang-10200
+CA-2023-161088,Second Class,Hero Van,2023-05-20,2023-06-09,On time,George Town-Penang-10200
+CA-2023-1612600,Second Class,Parcel Express,2023-05-25,2023-06-14,On time,George Town-Penang-10200
+CA-2023-161333,Second Class,HomeLaju,2023-05-27,2023-06-06,Early,George Town-Penang-10200
+CA-2023-1614789,Standard Class,Hero Van,2023-05-05,2023-05-15,Early,Kota Kinabalu-Sabah-88000
+CA-2023-161577,Standard Class,HomeLaju,2023-05-24,2023-06-23,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1615955,Standard Class,Hero Van,2023-05-17,2023-06-06,On time,Kuching-Sarawak-93000
+CA-2023-1616822,Standard Class,HomeLaju,2023-05-24,2023-06-13,On time,Kuching-Sarawak-93000
+CA-2023-1617430,Standard Class,Hero Van,2023-05-08,2023-05-28,On time,Kuching-Sarawak-93000
+CA-2023-1618244,Second Class,Hero Van,2023-05-22,2023-06-21,Late,George Town-Penang-10200
+CA-2023-161893,Second Class,Parcel Express,2023-05-26,2023-06-25,Late,George Town-Penang-10200
+CA-2023-1621413,Second Class,Parcel Express,2023-05-20,2023-06-09,On time,George Town-Penang-10200
+CA-2023-1624263,Second Class,Hero Van,2023-05-12,2023-06-11,Late,Johor Bahru-Johor-80000
+CA-2023-1624534,Second Class,Parcel Express,2023-05-24,2023-06-23,Late,Johor Bahru-Johor-80000
+CA-2023-162514,Second Class,Parcel Express,2023-05-16,2023-06-15,Late,Johor Bahru-Johor-80000
+CA-2023-1627738,Second Class,Hero Van,2023-05-21,2023-05-31,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1629824,Second Class,Parcel Express,2023-05-17,2023-06-06,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1630665,Second Class,Hero Van,2023-05-14,2023-05-24,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1632576,Second Class,Hero Van,2023-05-15,2023-06-04,On time,Kuching-Sarawak-93000
+CA-2023-1633220,Second Class,Hero Van,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+CA-2023-1633523,Second Class,HomeLaju,2023-05-08,2023-05-18,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1635153,Second Class,Parcel Express,2023-05-23,2023-06-22,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1636212,Second Class,Parcel Express,2023-05-14,2023-05-24,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-163629,Second Class,HomeLaju,2023-05-02,2023-05-22,On time,George Town-Penang-10200
+CA-2023-1637662,Second Class,Parcel Express,2023-05-08,2023-05-28,On time,George Town-Penang-10200
+CA-2023-1639490,Second Class,Hero Van,2023-05-28,2023-06-17,On time,Johor Bahru-Johor-80000
+CA-2023-164112,Second Class,Parcel Express,2023-05-02,2023-05-22,On time,Johor Bahru-Johor-80000
+CA-2023-1641277,Standard Class,HomeLaju,2023-05-20,2023-06-19,Late,Kota Kinabalu-Sabah-88000
+CA-2023-164168,Standard Class,Parcel Express,2023-05-27,2023-06-06,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1643015,Standard Class,Parcel Express,2023-05-28,2023-06-07,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1643109,Second Class,Hero Van,2023-05-02,2023-05-12,Early,Kuching-Sarawak-93000
+CA-2023-1644116,Second Class,Hero Van,2023-05-21,2023-05-31,Early,Kuching-Sarawak-93000
+CA-2023-1645076,Second Class,HomeLaju,2023-05-08,2023-06-07,Late,Kuching-Sarawak-93000
+CA-2023-1645112,Standard Class,HomeLaju,2023-05-18,2023-06-17,Late,George Town-Penang-10200
+CA-2023-1647614,Standard Class,HomeLaju,2023-05-16,2023-05-26,Early,George Town-Penang-10200
+CA-2023-1648793,Standard Class,Hero Van,2023-05-16,2023-06-05,On time,Johor Bahru-Johor-80000
+CA-2023-164930,Standard Class,HomeLaju,2023-05-15,2023-06-14,Late,Johor Bahru-Johor-80000
+CA-2023-1649442,Second Class,HomeLaju,2023-05-09,2023-05-19,Early,Kuching-Sarawak-93000
+CA-2023-1653274,Second Class,Hero Van,2023-05-09,2023-05-29,On time,Kuching-Sarawak-93000
+CA-2023-1655184,Second Class,Parcel Express,2023-05-22,2023-06-21,Late,Kuching-Sarawak-93000
+CA-2023-1658124,Second Class,Hero Van,2023-05-17,2023-05-27,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-165841,Second Class,HomeLaju,2023-05-21,2023-05-31,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1658806,Second Class,Parcel Express,2023-05-03,2023-05-13,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1660515,Second Class,HomeLaju,2023-05-21,2023-06-20,Late,Johor Bahru-Johor-80000
+CA-2023-1661142,Second Class,HomeLaju,2023-05-05,2023-05-15,Early,Johor Bahru-Johor-80000
+CA-2023-166128,Second Class,Parcel Express,2023-05-21,2023-05-31,Early,Johor Bahru-Johor-80000
+CA-2023-1661473,Standard Class,HomeLaju,2023-05-05,2023-06-04,Late,Kuching-Sarawak-93000
+CA-2023-1664003,Standard Class,HomeLaju,2023-05-21,2023-06-10,On time,Kuching-Sarawak-93000
+CA-2023-166415,Standard Class,HomeLaju,2023-05-22,2023-06-11,On time,Kuching-Sarawak-93000
+CA-2023-1664521,Standard Class,HomeLaju,2023-05-24,2023-06-23,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1664597,Standard Class,HomeLaju,2023-05-12,2023-06-11,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1664743,Standard Class,HomeLaju,2023-05-11,2023-05-21,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1666550,First Class,Parcel Express,2023-05-20,2023-06-19,Late,George Town-Penang-10200
+CA-2023-1667113,First Class,Hero Van,2023-05-26,2023-06-05,Early,George Town-Penang-10200
+CA-2023-166835,Standard Class,Hero Van,2023-05-06,2023-06-05,Late,Johor Bahru-Johor-80000
+CA-2023-1669043,Standard Class,Hero Van,2023-05-28,2023-06-07,Early,Johor Bahru-Johor-80000
+CA-2023-166933,Standard Class,Hero Van,2023-05-03,2023-05-23,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1670366,Standard Class,HomeLaju,2023-05-25,2023-06-14,On time,Kota Kinabalu-Sabah-88000
+CA-2023-167051,Standard Class,HomeLaju,2023-05-14,2023-06-13,Late,George Town-Penang-10200
+CA-2023-1670833,Standard Class,HomeLaju,2023-05-20,2023-06-09,On time,George Town-Penang-10200
+CA-2023-1671754,Standard Class,HomeLaju,2023-05-13,2023-06-12,Late,George Town-Penang-10200
+CA-2023-1672791,Standard Class,HomeLaju,2023-05-24,2023-06-13,On time,Johor Bahru-Johor-80000
+CA-2023-1673093,Standard Class,Parcel Express,2023-05-24,2023-06-23,Late,Johor Bahru-Johor-80000
+CA-2023-1673773,Standard Class,Hero Van,2023-05-23,2023-06-02,Early,Kuching-Sarawak-93000
+CA-2023-167381,Standard Class,HomeLaju,2023-05-23,2023-06-12,On time,Kuching-Sarawak-93000
+CA-2023-167395,First Class,Hero Van,2023-05-02,2023-05-12,Early,Kuching-Sarawak-93000
+CA-2023-1673969,First Class,HomeLaju,2023-05-15,2023-05-25,Early,Kuching-Sarawak-93000
+CA-2023-1674565,Second Class,Parcel Express,2023-05-27,2023-06-26,Late,George Town-Penang-10200
+CA-2023-1677155,Second Class,Hero Van,2023-05-11,2023-06-10,Late,George Town-Penang-10200
+CA-2023-1677189,Standard Class,HomeLaju,2023-05-13,2023-06-02,On time,Johor Bahru-Johor-80000
+CA-2023-1678768,Standard Class,HomeLaju,2023-05-11,2023-06-10,Late,Johor Bahru-Johor-80000
+CA-2023-1679866,Standard Class,Parcel Express,2023-05-23,2023-06-02,Early,Johor Bahru-Johor-80000
+CA-2023-1680517,Standard Class,Hero Van,2023-05-25,2023-06-04,Early,Kota Kinabalu-Sabah-88000
+CA-2023-168109,Standard Class,HomeLaju,2023-05-15,2023-05-25,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1682572,Second Class,HomeLaju,2023-05-10,2023-05-20,Early,Kuching-Sarawak-93000
+CA-2023-168403,Second Class,Hero Van,2023-05-21,2023-06-10,On time,Kuching-Sarawak-93000
+CA-2023-168641,Second Class,HomeLaju,2023-05-08,2023-06-07,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-168858,Second Class,Parcel Express,2023-05-05,2023-06-04,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1689445,Second Class,HomeLaju,2023-05-12,2023-05-22,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1689748,Second Class,HomeLaju,2023-05-02,2023-06-01,Late,George Town-Penang-10200
+CA-2023-1689749,Second Class,Hero Van,2023-05-08,2023-05-28,On time,George Town-Penang-10200
+CA-2023-1690070,Second Class,Hero Van,2023-05-28,2023-06-27,Late,Johor Bahru-Johor-80000
+CA-2023-1692150,Second Class,Hero Van,2023-05-12,2023-06-01,On time,Johor Bahru-Johor-80000
+CA-2023-1692879,Second Class,Parcel Express,2023-05-16,2023-06-05,On time,Kota Kinabalu-Sabah-88000
+CA-2023-169693,Second Class,HomeLaju,2023-05-09,2023-06-08,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1698615,Standard Class,Hero Van,2023-05-15,2023-05-25,Early,Kuching-Sarawak-93000
+CA-2023-1700472,Standard Class,HomeLaju,2023-05-02,2023-05-22,On time,Kuching-Sarawak-93000
+CA-2023-170189,Standard Class,HomeLaju,2023-05-10,2023-05-30,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1703530,Standard Class,Hero Van,2023-05-23,2023-06-12,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1703980,Standard Class,HomeLaju,2023-05-08,2023-05-28,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1704656,Standard Class,HomeLaju,2023-05-04,2023-05-14,Early,George Town-Penang-10200
+CA-2023-1706995,Standard Class,HomeLaju,2023-05-28,2023-06-27,Late,George Town-Penang-10200
+CA-2023-1707776,Standard Class,Hero Van,2023-05-14,2023-06-13,Late,George Town-Penang-10200
+CA-2023-1708621,Standard Class,Hero Van,2023-05-20,2023-05-30,Early,Johor Bahru-Johor-80000
+CA-2023-1708826,Standard Class,Hero Van,2023-05-06,2023-06-05,Late,Johor Bahru-Johor-80000
+CA-2023-1708899,Standard Class,HomeLaju,2023-05-17,2023-06-16,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1709135,Standard Class,Parcel Express,2023-05-19,2023-05-29,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1711052,Standard Class,Parcel Express,2023-05-18,2023-06-07,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1711324,First Class,Parcel Express,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+CA-2023-1713082,First Class,Hero Van,2023-05-14,2023-05-24,Early,Kuching-Sarawak-93000
+CA-2023-1714826,First Class,HomeLaju,2023-05-06,2023-06-05,Late,Kuching-Sarawak-93000
+CA-2023-1715166,First Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1716437,First Class,Parcel Express,2023-05-20,2023-05-30,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1716805,First Class,Hero Van,2023-05-05,2023-05-25,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1718402,First Class,HomeLaju,2023-05-28,2023-06-17,On time,George Town-Penang-10200
+CA-2023-1718816,First Class,Hero Van,2023-05-04,2023-06-03,Late,George Town-Penang-10200
+CA-2023-1719500,First Class,Parcel Express,2023-05-28,2023-06-17,On time,Johor Bahru-Johor-80000
+CA-2023-1720747,First Class,HomeLaju,2023-05-27,2023-06-26,Late,Johor Bahru-Johor-80000
+CA-2023-1723119,Standard Class,HomeLaju,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+CA-2023-1723553,Standard Class,Hero Van,2023-05-14,2023-05-24,Early,Kuching-Sarawak-93000
+CA-2023-1726403,Standard Class,HomeLaju,2023-05-07,2023-06-06,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1727389,Standard Class,Parcel Express,2023-05-23,2023-06-02,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1728600,First Class,Parcel Express,2023-05-16,2023-06-05,On time,Kuching-Sarawak-93000
+CA-2023-1729213,First Class,Parcel Express,2023-05-04,2023-05-14,Early,Kuching-Sarawak-93000
+CA-2023-1729427,First Class,HomeLaju,2023-05-09,2023-05-19,Early,Kuching-Sarawak-93000
+CA-2023-173009,First Class,Hero Van,2023-05-16,2023-06-05,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1730453,First Class,Parcel Express,2023-05-15,2023-06-04,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1731162,Same Day,HomeLaju,2023-05-18,2023-06-17,Late,George Town-Penang-10200
+CA-2023-1732485,Same Day,Parcel Express,2023-05-04,2023-05-24,On time,George Town-Penang-10200
+CA-2023-1733533,Same Day,HomeLaju,2023-05-21,2023-05-31,Early,Johor Bahru-Johor-80000
+CA-2023-1737662,Same Day,Parcel Express,2023-05-14,2023-05-24,Early,Johor Bahru-Johor-80000
+CA-2023-1738171,Same Day,Hero Van,2023-05-13,2023-05-23,Early,Johor Bahru-Johor-80000
+CA-2023-1739440,Same Day,Hero Van,2023-05-21,2023-06-20,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1739530,Same Day,Hero Van,2023-05-28,2023-06-17,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1740821,Same Day,Parcel Express,2023-05-24,2023-06-03,Early,Kuching-Sarawak-93000
+CA-2023-1741997,Same Day,HomeLaju,2023-05-14,2023-06-03,On time,Kuching-Sarawak-93000
+CA-2023-1744522,Same Day,HomeLaju,2023-05-11,2023-05-21,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1745378,Standard Class,HomeLaju,2023-05-14,2023-06-13,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-174753,Standard Class,HomeLaju,2023-05-18,2023-05-28,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1748266,Standard Class,Hero Van,2023-05-07,2023-05-27,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1749565,Standard Class,HomeLaju,2023-05-25,2023-06-14,On time,Johor Bahru-Johor-80000
+CA-2023-1756378,Standard Class,Parcel Express,2023-05-14,2023-06-03,On time,Johor Bahru-Johor-80000
+CA-2023-1756786,Standard Class,HomeLaju,2023-05-26,2023-06-25,Late,Kuching-Sarawak-93000
+CA-2023-1756894,Standard Class,Parcel Express,2023-05-21,2023-05-31,Early,Kuching-Sarawak-93000
+CA-2023-1757819,Standard Class,Parcel Express,2023-05-11,2023-05-21,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1758488,Standard Class,HomeLaju,2023-05-06,2023-05-26,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1758965,Standard Class,HomeLaju,2023-05-26,2023-06-15,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1759488,Standard Class,HomeLaju,2023-05-28,2023-06-07,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1762995,Standard Class,Hero Van,2023-05-17,2023-06-16,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1764202,Standard Class,Hero Van,2023-05-09,2023-05-19,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1765704,Standard Class,HomeLaju,2023-05-10,2023-05-20,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1766960,Standard Class,Hero Van,2023-05-22,2023-06-01,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-176702,Standard Class,HomeLaju,2023-05-01,2023-05-31,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1769173,Standard Class,HomeLaju,2023-05-28,2023-06-17,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1769443,Second Class,HomeLaju,2023-05-28,2023-06-07,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1770529,Second Class,Parcel Express,2023-05-15,2023-06-04,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-1772119,Standard Class,HomeLaju,2023-05-27,2023-06-16,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1774989,Standard Class,Hero Van,2023-05-23,2023-06-02,#DIV/0!,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-177722,Standard Class,Hero Van,2023-05-22,2023-06-21,#DIV/0!,George Town-Penang-10200
+CA-2023-1782475,Standard Class,HomeLaju,2023-05-12,2023-06-01,#DIV/0!,George Town-Penang-10200
+CA-2023-1783533,Standard Class,Hero Van,2023-05-01,2023-05-11,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1783994,Standard Class,Parcel Express,2023-05-02,2023-05-12,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1785704,Standard Class,HomeLaju,2023-05-10,2023-05-20,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-1785733,Standard Class,Parcel Express,2023-05-02,2023-05-22,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-178756,Second Class,Parcel Express,2023-05-08,2023-05-18,#DIV/0!,George Town-Penang-10200
+CA-2023-1789787,Second Class,Parcel Express,2023-05-24,2023-06-23,#DIV/0!,George Town-Penang-10200
+CA-2023-1793288,Second Class,Parcel Express,2023-05-10,2023-05-30,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1795764,Second Class,Parcel Express,2023-05-04,2023-06-03,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1797299,Second Class,HomeLaju,2023-05-03,2023-05-13,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-1797492,Second Class,Parcel Express,2023-05-23,2023-06-02,#DIV/0!,George Town-Penang-10200
+CA-2023-1798747,Second Class,Hero Van,2023-05-20,2023-05-30,#DIV/0!,George Town-Penang-10200
+CA-2023-1803088,Second Class,Hero Van,2023-05-27,2023-06-06,#DIV/0!,George Town-Penang-10200
+CA-2023-1803199,Standard Class,Hero Van,2023-05-26,2023-06-15,On time,Johor Bahru-Johor-80000
+CA-2023-180421,Standard Class,Hero Van,2023-05-04,2023-06-03,Late,Johor Bahru-Johor-80000
+CA-2023-1804782,Second Class,Parcel Express,2023-05-14,2023-06-03,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1805945,Second Class,Hero Van,2023-05-08,2023-05-18,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1806466,Second Class,HomeLaju,2023-05-04,2023-05-24,On time,George Town-Penang-10200
+CA-2023-1809099,Second Class,Hero Van,2023-05-27,2023-06-06,Early,George Town-Penang-10200
+CA-2023-180915,Standard Class,HomeLaju,2023-05-21,2023-06-10,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1810515,Standard Class,Hero Van,2023-05-09,2023-05-29,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1813642,Standard Class,Parcel Express,2023-05-28,2023-06-27,Late,Johor Bahru-Johor-80000
+CA-2023-1813796,Standard Class,HomeLaju,2023-05-01,2023-05-21,On time,Johor Bahru-Johor-80000
+CA-2023-1815916,Standard Class,Hero Van,2023-05-07,2023-06-06,Late,Johor Bahru-Johor-80000
+CA-2023-181818,Standard Class,Parcel Express,2023-05-03,2023-06-02,Late,Kota Kinabalu-Sabah-88000
+CA-2023-181953,Standard Class,HomeLaju,2023-05-11,2023-05-21,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1819591,Standard Class,Parcel Express,2023-05-25,2023-06-24,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1822028,Standard Class,Parcel Express,2023-05-15,2023-05-25,Early,Kuching-Sarawak-93000
+CA-2023-1830889,Standard Class,Hero Van,2023-05-03,2023-05-13,Early,Kuching-Sarawak-93000
+CA-2023-1831075,Standard Class,HomeLaju,2023-05-01,2023-05-11,Early,Kuching-Sarawak-93000
+CA-2023-1833516,Standard Class,Hero Van,2023-05-22,2023-06-01,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1837056,Standard Class,Hero Van,2023-05-11,2023-06-10,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1839540,Standard Class,HomeLaju,2023-05-21,2023-05-31,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1840631,Standard Class,HomeLaju,2023-05-09,2023-06-08,Late,George Town-Penang-10200
+CA-2023-1843452,Standard Class,HomeLaju,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+CA-2023-1843903,Standard Class,Parcel Express,2023-05-08,2023-06-07,Late,Kota Kinabalu-Sabah-88000
+CA-2023-18454,Standard Class,HomeLaju,2023-05-27,2023-06-06,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1845901,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Kuching-Sarawak-93000
+CA-2023-1846102,Standard Class,HomeLaju,2023-05-22,2023-06-01,Early,Kuching-Sarawak-93000
+CA-2023-1846299,Standard Class,Parcel Express,2023-05-09,2023-05-29,On time,Kuching-Sarawak-93000
+CA-2023-1846754,Standard Class,HomeLaju,2023-05-12,2023-06-01,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-184795,Standard Class,Hero Van,2023-05-22,2023-06-01,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1848831,Standard Class,Parcel Express,2023-05-26,2023-06-25,Late,George Town-Penang-10200
+CA-2023-1850656,Standard Class,Hero Van,2023-05-16,2023-06-05,On time,George Town-Penang-10200
+CA-2023-1851543,Standard Class,Hero Van,2023-05-11,2023-05-31,On time,George Town-Penang-10200
+CA-2023-1853894,Standard Class,Parcel Express,2023-05-14,2023-06-13,Late,Johor Bahru-Johor-80000
+CA-2023-1860948,Standard Class,Parcel Express,2023-05-19,2023-06-08,On time,Johor Bahru-Johor-80000
+CA-2023-1862943,Standard Class,HomeLaju,2023-05-16,2023-05-26,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1863541,Standard Class,HomeLaju,2023-05-15,2023-06-14,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1863575,Standard Class,HomeLaju,2023-05-02,2023-05-12,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1864130,Standard Class,Hero Van,2023-05-13,2023-05-23,Early,Kuching-Sarawak-93000
+CA-2023-1864311,Standard Class,Hero Van,2023-05-20,2023-06-19,Late,Kuching-Sarawak-93000
+CA-2023-1866196,Standard Class,Hero Van,2023-05-13,2023-05-23,Early,Kuching-Sarawak-93000
+CA-2023-1866996,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1867008,Standard Class,Parcel Express,2023-05-07,2023-05-17,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1870650,Standard Class,HomeLaju,2023-05-09,2023-05-29,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1871062,Standard Class,HomeLaju,2023-05-23,2023-06-02,Early,Johor Bahru-Johor-80000
+CA-2023-1872856,Standard Class,Parcel Express,2023-05-02,2023-06-01,Late,Johor Bahru-Johor-80000
+CA-2023-1875137,Standard Class,Parcel Express,2023-05-07,2023-05-17,Early,Johor Bahru-Johor-80000
+CA-2023-187564,Standard Class,Hero Van,2023-05-09,2023-05-19,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1875756,Standard Class,HomeLaju,2023-05-05,2023-06-04,Late,Kota Kinabalu-Sabah-88000
+CA-2023-187577,Second Class,Hero Van,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+CA-2023-1876518,Second Class,Parcel Express,2023-05-15,2023-06-04,On time,Kuching-Sarawak-93000
+CA-2023-188095,Standard Class,HomeLaju,2023-05-28,2023-06-07,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1881243,Standard Class,HomeLaju,2023-05-14,2023-06-03,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1883470,Standard Class,HomeLaju,2023-05-23,2023-06-12,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1884421,Standard Class,HomeLaju,2023-05-07,2023-06-06,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1886435,Standard Class,HomeLaju,2023-05-02,2023-06-01,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1886693,Standard Class,HomeLaju,2023-05-01,2023-05-11,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1886971,Standard Class,Hero Van,2023-05-02,2023-06-01,Late,George Town-Penang-10200
+CA-2023-1887521,Standard Class,HomeLaju,2023-05-12,2023-05-22,Early,George Town-Penang-10200
+CA-2023-1889349,Standard Class,Hero Van,2023-05-22,2023-06-21,Late,George Town-Penang-10200
+CA-2023-1890271,Standard Class,Parcel Express,2023-05-21,2023-06-10,On time,Johor Bahru-Johor-80000
+CA-2023-1891206,Standard Class,Parcel Express,2023-05-19,2023-06-18,Late,Johor Bahru-Johor-80000
+CA-2023-1892651,Standard Class,HomeLaju,2023-05-18,2023-05-28,Early,Johor Bahru-Johor-80000
+CA-2023-1893192,Second Class,Hero Van,2023-05-04,2023-05-24,On time,Kuching-Sarawak-93000
+CA-2023-1893467,Second Class,HomeLaju,2023-05-18,2023-06-17,Late,Kuching-Sarawak-93000
+CA-2023-1895117,Second Class,Hero Van,2023-05-03,2023-05-13,Early,George Town-Penang-10200
+CA-2023-1896232,Second Class,Hero Van,2023-05-25,2023-06-24,Late,George Town-Penang-10200
+CA-2023-1897098,Second Class,Hero Van,2023-05-09,2023-05-19,Early,George Town-Penang-10200
+CA-2023-189892,Second Class,Hero Van,2023-05-05,2023-05-15,Early,Johor Bahru-Johor-80000
+CA-2023-189959,Second Class,HomeLaju,2023-05-24,2023-06-03,Early,Johor Bahru-Johor-80000
+CA-2023-1900032,Second Class,Hero Van,2023-05-12,2023-06-01,On time,Johor Bahru-Johor-80000
+CA-2023-1900393,Second Class,Parcel Express,2023-05-08,2023-05-18,Early,Kuching-Sarawak-93000
+CA-2023-1900607,Second Class,Hero Van,2023-05-27,2023-06-06,Early,Kuching-Sarawak-93000
+CA-2023-1900863,Second Class,HomeLaju,2023-05-04,2023-05-14,Early,Kuching-Sarawak-93000
+CA-2023-1901483,Second Class,Hero Van,2023-05-02,2023-06-01,Late,Johor Bahru-Johor-80000
+CA-2023-1902474,Second Class,Hero Van,2023-05-10,2023-05-20,Early,Johor Bahru-Johor-80000
+CA-2023-1903285,Second Class,Parcel Express,2023-05-09,2023-06-08,Late,Johor Bahru-Johor-80000
+CA-2023-1905445,Second Class,HomeLaju,2023-05-06,2023-06-05,Late,Kota Kinabalu-Sabah-88000
+CA-2023-190609,Second Class,Hero Van,2023-05-15,2023-06-04,On time,Kota Kinabalu-Sabah-88000
+CA-2023-190732,Second Class,Parcel Express,2023-05-12,2023-06-11,Late,Kuching-Sarawak-93000
+CA-2023-1909507,Second Class,HomeLaju,2023-05-26,2023-06-15,On time,Kuching-Sarawak-93000
+CA-2023-1911356,Second Class,Parcel Express,2023-05-18,2023-05-28,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1912759,Second Class,HomeLaju,2023-05-04,2023-06-03,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1915035,Second Class,Hero Van,2023-05-09,2023-06-08,Late,George Town-Penang-10200
+CA-2023-1916432,Second Class,Hero Van,2023-05-08,2023-05-28,On time,George Town-Penang-10200
+CA-2023-1916659,Second Class,Hero Van,2023-05-25,2023-06-24,Late,George Town-Penang-10200
+CA-2023-1916996,Second Class,Hero Van,2023-05-27,2023-06-26,Late,Johor Bahru-Johor-80000
+CA-2023-1918909,Second Class,Hero Van,2023-05-25,2023-06-14,On time,Johor Bahru-Johor-80000
+CA-2023-1923068,Second Class,HomeLaju,2023-05-08,2023-05-18,Early,Johor Bahru-Johor-80000
+CA-2023-1923122,Standard Class,Parcel Express,2023-05-24,2023-06-03,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1924418,Standard Class,Parcel Express,2023-05-13,2023-05-23,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1924878,Standard Class,Hero Van,2023-05-03,2023-05-23,On time,Johor Bahru-Johor-80000
+CA-2023-192562,Standard Class,Parcel Express,2023-05-23,2023-06-02,Early,Johor Bahru-Johor-80000
+CA-2023-1925786,Standard Class,Hero Van,2023-05-20,2023-06-19,Late,Kuching-Sarawak-93000
+CA-2023-192615,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+CA-2023-1926778,Standard Class,HomeLaju,2023-05-20,2023-06-09,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1931312,Standard Class,Parcel Express,2023-05-19,2023-06-18,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1931490,Standard Class,Hero Van,2023-05-12,2023-05-22,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1933469,Standard Class,Hero Van,2023-05-02,2023-05-22,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1934014,Standard Class,Hero Van,2023-05-22,2023-06-01,Early,Kuching-Sarawak-93000
+CA-2023-1935930,Standard Class,HomeLaju,2023-05-02,2023-05-12,Early,Kuching-Sarawak-93000
+CA-2023-1936061,Standard Class,Hero Van,2023-05-11,2023-05-31,On time,Kuching-Sarawak-93000
+CA-2023-1937479,Standard Class,Hero Van,2023-05-08,2023-05-18,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1937723,Standard Class,HomeLaju,2023-05-20,2023-06-09,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1941464,Second Class,Hero Van,2023-05-24,2023-06-13,On time,Kuching-Sarawak-93000
+CA-2023-1943331,Second Class,Parcel Express,2023-05-04,2023-05-24,On time,Kuching-Sarawak-93000
+CA-2023-194582,Second Class,HomeLaju,2023-05-24,2023-06-13,On time,George Town-Penang-10200
+CA-2023-194740,Second Class,Parcel Express,2023-05-15,2023-06-04,On time,George Town-Penang-10200
+CA-2023-195174,Second Class,Hero Van,2023-05-14,2023-05-24,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1951758,Second Class,HomeLaju,2023-05-15,2023-06-14,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1953630,Second Class,Hero Van,2023-05-25,2023-06-24,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1955470,Standard Class,Parcel Express,2023-05-13,2023-06-02,On time,Johor Bahru-Johor-80000
+CA-2023-1959322,Standard Class,Parcel Express,2023-05-13,2023-06-02,On time,Johor Bahru-Johor-80000
+CA-2023-1959370,Standard Class,HomeLaju,2023-05-06,2023-05-26,On time,Johor Bahru-Johor-80000
+CA-2023-1959871,Standard Class,Hero Van,2023-05-14,2023-06-13,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1962071,Standard Class,HomeLaju,2023-05-11,2023-06-10,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1962590,Standard Class,Hero Van,2023-05-04,2023-05-24,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1963050,Standard Class,Parcel Express,2023-05-06,2023-05-26,On time,George Town-Penang-10200
+CA-2023-1963222,Standard Class,Parcel Express,2023-05-26,2023-06-25,Late,George Town-Penang-10200
+CA-2023-1963362,Standard Class,HomeLaju,2023-05-28,2023-06-17,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1964381,Standard Class,Parcel Express,2023-05-14,2023-06-03,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1966697,Standard Class,Parcel Express,2023-05-09,2023-06-08,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1970796,First Class,Hero Van,2023-05-23,2023-06-02,Early,Kuching-Sarawak-93000
+CA-2023-1971927,First Class,Hero Van,2023-05-28,2023-06-07,Early,Kuching-Sarawak-93000
+CA-2023-1972011,First Class,Hero Van,2023-05-05,2023-05-25,On time,Kuching-Sarawak-93000
+CA-2023-1972952,First Class,HomeLaju,2023-05-26,2023-06-05,Early,George Town-Penang-10200
+CA-2023-1974631,First Class,Parcel Express,2023-05-12,2023-05-22,Early,George Town-Penang-10200
+CA-2023-19748,Second Class,Hero Van,2023-05-14,2023-06-13,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1976938,Second Class,Hero Van,2023-05-28,2023-06-17,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1980536,Standard Class,Hero Van,2023-05-24,2023-06-03,Early,Johor Bahru-Johor-80000
+CA-2023-1980610,Standard Class,Hero Van,2023-05-09,2023-05-29,On time,Johor Bahru-Johor-80000
+CA-2023-198133,Standard Class,HomeLaju,2023-05-14,2023-06-13,Late,Johor Bahru-Johor-80000
+CA-2023-1981541,Standard Class,Hero Van,2023-05-07,2023-06-06,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1983342,Standard Class,HomeLaju,2023-05-10,2023-06-09,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1983486,Standard Class,Parcel Express,2023-05-08,2023-05-28,On time,Kota Kinabalu-Sabah-88000
+CA-2023-1983517,Second Class,Hero Van,2023-05-27,2023-06-06,Early,Kuching-Sarawak-93000
+CA-2023-1985809,Second Class,HomeLaju,2023-05-05,2023-06-04,Late,Kuching-Sarawak-93000
+CA-2023-1987301,Second Class,Hero Van,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+CA-2023-1989105,Standard Class,Parcel Express,2023-05-06,2023-05-26,On time,George Town-Penang-10200
+CA-2023-1989889,Standard Class,Hero Van,2023-05-22,2023-06-01,Early,George Town-Penang-10200
+CA-2023-1990645,Standard Class,Parcel Express,2023-05-10,2023-05-20,Early,George Town-Penang-10200
+CA-2023-19934,Standard Class,Parcel Express,2023-05-24,2023-06-03,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1995716,Standard Class,Hero Van,2023-05-17,2023-05-27,Early,Kota Kinabalu-Sabah-88000
+CA-2023-1997886,Standard Class,HomeLaju,2023-05-25,2023-06-24,Late,Kota Kinabalu-Sabah-88000
+CA-2023-1998091,Standard Class,HomeLaju,2023-05-24,2023-06-13,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-1998451,Standard Class,HomeLaju,2023-05-26,2023-06-25,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-199905,Standard Class,Parcel Express,2023-05-05,2023-05-25,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2001320,Standard Class,Parcel Express,2023-05-04,2023-05-24,On time,Johor Bahru-Johor-80000
+CA-2023-2001413,Standard Class,HomeLaju,2023-05-24,2023-06-13,On time,Johor Bahru-Johor-80000
+CA-2023-2003384,Standard Class,Hero Van,2023-05-18,2023-06-17,Late,Kota Kinabalu-Sabah-88000
+CA-2023-2004127,Standard Class,HomeLaju,2023-05-03,2023-05-23,On time,Kota Kinabalu-Sabah-88000
+CA-2023-2004700,Standard Class,Hero Van,2023-05-01,2023-05-11,Early,Johor Bahru-Johor-80000
+CA-2023-2004908,Standard Class,Hero Van,2023-05-10,2023-05-20,Early,Johor Bahru-Johor-80000
+CA-2023-2005233,Standard Class,Parcel Express,2023-05-13,2023-06-02,On time,Kota Kinabalu-Sabah-88000
+CA-2023-2006022,Standard Class,HomeLaju,2023-05-27,2023-06-16,On time,Kota Kinabalu-Sabah-88000
+CA-2023-2007186,Standard Class,Hero Van,2023-05-20,2023-06-09,On time,Kuching-Sarawak-93000
+CA-2023-2008384,Standard Class,Parcel Express,2023-05-27,2023-06-26,Late,Kuching-Sarawak-93000
+CA-2023-2008841,Standard Class,Hero Van,2023-05-17,2023-06-06,On time,Kuching-Sarawak-93000
+CA-2023-2009163,First Class,Parcel Express,2023-05-11,2023-05-31,On time,George Town-Penang-10200
+CA-2023-2009239,First Class,Parcel Express,2023-05-13,2023-05-23,Early,George Town-Penang-10200
+CA-2023-2009562,Standard Class,Hero Van,2023-05-19,2023-05-29,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2011675,Standard Class,Parcel Express,2023-05-09,2023-05-19,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2012949,Standard Class,HomeLaju,2023-05-06,2023-06-05,Late,Kota Kinabalu-Sabah-88000
+CA-2023-2014115,Standard Class,Hero Van,2023-05-21,2023-05-31,Early,Kota Kinabalu-Sabah-88000
+CA-2023-2015211,Standard Class,HomeLaju,2023-05-22,2023-06-21,Late,Kuching-Sarawak-93000
+CA-2023-2015593,Standard Class,HomeLaju,2023-05-19,2023-06-18,Late,Kuching-Sarawak-93000
+CA-2023-2016688,Standard Class,Hero Van,2023-05-06,2023-06-05,Late,Kuching-Sarawak-93000
+CA-2023-2016910,Standard Class,HomeLaju,2023-05-19,2023-06-18,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2017096,Standard Class,HomeLaju,2023-05-27,2023-06-06,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2019215,Standard Class,HomeLaju,2023-05-09,2023-06-08,Late,George Town-Penang-10200
+CA-2023-2020059,Standard Class,Parcel Express,2023-05-15,2023-06-04,On time,George Town-Penang-10200
+CA-2023-2022499,Standard Class,Hero Van,2023-05-09,2023-05-29,On time,George Town-Penang-10200
+CA-2023-202409,First Class,Hero Van,2023-05-07,2023-05-27,On time,Johor Bahru-Johor-80000
+CA-2023-2026617,First Class,HomeLaju,2023-05-01,2023-05-31,Late,Johor Bahru-Johor-80000
+CA-2023-2028266,First Class,HomeLaju,2023-05-01,2023-05-11,Early,Kuching-Sarawak-93000
+CA-2023-2028863,First Class,Hero Van,2023-05-26,2023-06-15,On time,Kuching-Sarawak-93000
+CA-2023-2030691,First Class,Hero Van,2023-05-22,2023-06-11,On time,Kuching-Sarawak-93000
+CA-2023-2034130,Standard Class,Hero Van,2023-05-17,2023-06-16,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-203420,Standard Class,HomeLaju,2023-05-14,2023-06-13,Late,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2036661,Standard Class,HomeLaju,2023-05-04,2023-05-24,On time,George Town-Penang-10200
+CA-2023-2041303,Standard Class,Parcel Express,2023-05-01,2023-05-31,Late,George Town-Penang-10200
+CA-2023-204604,Standard Class,HomeLaju,2023-05-18,2023-06-07,On time,Kota Kinabalu-Sabah-88000
+CA-2023-2046793,Standard Class,HomeLaju,2023-05-24,2023-06-03,Early,Kota Kinabalu-Sabah-88000
+CA-2023-2047320,Standard Class,Parcel Express,2023-05-07,2023-06-06,Late,Kota Kinabalu-Sabah-88000
+CA-2023-2048072,Standard Class,Parcel Express,2023-05-20,2023-05-30,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2050021,Standard Class,Hero Van,2023-05-18,2023-06-07,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2050349,Second Class,HomeLaju,2023-05-10,2023-05-20,Early,George Town-Penang-10200
+CA-2023-2052650,Second Class,HomeLaju,2023-05-12,2023-06-01,On time,George Town-Penang-10200
+CA-2023-2054343,Standard Class,Hero Van,2023-05-27,2023-06-06,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-2055986,Standard Class,HomeLaju,2023-05-07,2023-05-17,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-2056879,Standard Class,HomeLaju,2023-05-20,2023-06-19,#DIV/0!,Johor Bahru-Johor-80000
+CA-2023-2057982,Second Class,HomeLaju,2023-05-22,2023-06-21,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-2058012,Second Class,Hero Van,2023-05-03,2023-06-02,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-2059014,Second Class,Hero Van,2023-05-02,2023-05-12,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-2059549,Second Class,Hero Van,2023-05-26,2023-06-05,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-2061850,Second Class,Parcel Express,2023-05-21,2023-06-10,#DIV/0!,Kuching-Sarawak-93000
+CA-2023-2061928,Second Class,Hero Van,2023-05-02,2023-05-22,#DIV/0!,George Town-Penang-10200
+CA-2023-206203,Second Class,Hero Van,2023-05-21,2023-06-10,#DIV/0!,George Town-Penang-10200
+CA-2023-2062846,Second Class,Hero Van,2023-05-23,2023-06-12,#DIV/0!,George Town-Penang-10200
+CA-2023-2064095,Standard Class,Parcel Express,2023-05-03,2023-06-02,#DIV/0!,Kota Kinabalu-Sabah-88000
+CA-2023-2066202,Standard Class,HomeLaju,2023-05-03,2023-05-23,On time,Kota Kinabalu-Sabah-88000
+CA-2023-2066241,First Class,Parcel Express,2023-05-09,2023-05-29,On time,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2067747,First Class,Hero Van,2023-05-21,2023-05-31,Early,Kuala Lumpur-Wilayah Persekutuan-50000
+CA-2023-2068320,First Class,Hero Van,2023-05-24,2023-06-23,Late,Kuala Lumpur-Wilayah Persekutuan-50000
